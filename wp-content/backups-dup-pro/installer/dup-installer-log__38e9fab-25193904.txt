@@ -1,0 +1,2264 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-0 START @ 03:44:11
+* VERSION: 4.0.1.1
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ ORIGINAL SERVER                        |CURRENT SERVER
+OS__________________: Linux                                 |Linux
+PHP VERSION_________: 7.3.25                                |7.2.24-0ubuntu0.18.04.7
+********************************************************************************
+CURRENT SERVER INFO
+PHP_________________: 7.2.24-0ubuntu0.18.04.7 | SAPI: cgi-fcgi
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+ARCHITECTURE________: 64-bit
+SERVER______________: Apache
+DOC ROOT____________: "/home/live.tele-medicine.live/public_html"
+LOG FILE 644________: false
+REQUEST URL_________: "https://live.tele-medicine.live/dup-installer/main.installer.php"
+********************************************************************************
+OVERWRITE PARAMS
+ *** FROM PACKAGE
+PARAM SET KEY[cpnl-dbaction]
+********************************************************************************
+If start step 0 /home/live.tele-medicine.live/public_html
+INSTALLER INFO
+TEMPLATE____________: "base"
+VALIDATE ON START___: "normal"
+PATH_NEW____________: "/home/live.tele-medicine.live/public_html"
+URL_NEW_____________: "https://live.tele-medicine.live"
+********************************************************************************
+
+--------------------------------------
+ARCHIVE INFO
+--------------------------------------
+ARCHIVE NAME________: "/home/live.tele-medicine.live/public_html/20201225_emasvirtualschool_[HASH]_20201225193904_archive.daf"
+ARCHIVE SIZE________: 856.52MB
+CREATED_____________: 2020-12-25 19:39:04
+WP VERSION__________: 5.5.3
+DUP VERSION_________: 4.0.1.1
+DB VERSION__________: 5.5.62
+DB FILE SIZE________: 73.12MB
+DB TABLES___________: 265
+DB ROWS_____________: 91776
+URL HOME____________: https://live.emas-online.org
+URL CORE____________: https://live.emas-online.org
+URL CONTENT_________: https://live.emas-online.org/wp-content
+URL UPLOAD__________: https://live.emas-online.org/wp-content/uploads
+URL PLUGINS_________: https://live.emas-online.org/wp-content/plugins
+URL MU PLUGINS______: https://live.emas-online.org/wp-content/mu-plugins
+URL THEMES__________: https://live.emas-online.org/wp-content/themes
+PATH HOME___________: /home/live/public_html
+PATH ABS____________: /home/live/public_html
+PATH WPCONFIG_______: /home/live/public_html
+PATH WPCONTENT______: /home/live/public_html/wp-content
+PATH UPLOADS________: /home/live/public_html/wp-content/uploads
+PATH PLUGINS________: /home/live/public_html/wp-content/plugins
+PATH MUPLUGINS______: /home/live/public_html/wp-content/mu-plugins
+PATH THEMES_________: /home/live/public_html/wp-content/themes
+***  PLUGINS ***
+PLUGIN [SLUG:admin-bar-disabler/admin-bar-disabler.php         ][ON:false] Admin Bar Disabler
+PLUGIN [SLUG:akismet/akismet.php                               ][ON:true ] Akismet Anti-Spam
+PLUGIN [SLUG:all-in-one-video-gallery/all-in-one-video-gallery.php][ON:true ] All-in-One Video Gallery
+PLUGIN [SLUG:ari-fancy-lightbox/ari-fancy-lightbox.php         ][ON:false] ARI Fancy Lightbox
+PLUGIN [SLUG:bnfw/bnfw.php                                     ][ON:false] Better Notifications for WP
+PLUGIN [SLUG:better-search-replace/better-search-replace.php   ][ON:false] Better Search Replace
+PLUGIN [SLUG:taxonomy-terms-order/taxonomy-terms-order.php     ][ON:false] Category Order and Taxonomy Terms Order
+PLUGIN [SLUG:child-theme-generator/child-theme-generator.php   ][ON:false] Child Theme Generator
+PLUGIN [SLUG:contact-form-7/wp-contact-form-7.php              ][ON:true ] Contact Form 7
+PLUGIN [SLUG:countdown-builder/countdown-builder.php           ][ON:false] Countdown builder
+PLUGIN [SLUG:duplicate-page/duplicatepage.php                  ][ON:true ] Duplicate Page
+PLUGIN [SLUG:duplicator/duplicator.php                         ][ON:true ] Duplicator
+PLUGIN [SLUG:duplicator-pro/duplicator-pro.php                 ][ON:true ] Duplicator Pro
+PLUGIN [SLUG:easy-fancybox/easy-fancybox.php                   ][ON:true ] Easy FancyBox
+PLUGIN [SLUG:easy-wp-smtp/easy-wp-smtp.php                     ][ON:false] Easy WP SMTP
+PLUGIN [SLUG:elementor/elementor.php                           ][ON:true ] Elementor
+PLUGIN [SLUG:elementor-pro/elementor-pro.php                   ][ON:true ] Elementor Pro
+PLUGIN [SLUG:emas/emas.php                                     ][ON:true ] EMAS custom plugin
+PLUGIN [SLUG:2code-event-schedule/index.php                    ][ON:true ] Event Schedule
+PLUGIN [SLUG:flamingo/flamingo.php                             ][ON:true ] Flamingo
+PLUGIN [SLUG:fluentform/fluentform.php                         ][ON:true ] Fluent Forms
+PLUGIN [SLUG:fluentforms-pdf/fluentforms-pdf.php               ][ON:true ] Fluent Forms PDF Generator
+PLUGIN [SLUG:fluentformpro/fluentformpro.php                   ][ON:true ] Fluent Forms Pro Add On Pack
+PLUGIN [SLUG:folders/folders.php                               ][ON:false] Folders
+PLUGIN [SLUG:fv-gravatar-cache/fv-gravatar-cache.php           ][ON:false] FV Gravatar Cache
+PLUGIN [SLUG:ga-google-analytics/ga-google-analytics.php       ][ON:false] GA Google Analytics
+PLUGIN [SLUG:gosign-posts-slider-block/plugin.php              ][ON:true ] Gosign - Posts Slider Block
+PLUGIN [SLUG:grids/grids.php                                   ][ON:true ] Grids
+PLUGIN [SLUG:header-footer/plugin.php                          ][ON:false] Head, Footer and Post Injections
+PLUGIN [SLUG:hello.php                                         ][ON:false] Hello Dolly
+PLUGIN [SLUG:image-map-pro-wordpress/image-map-pro-wordpress.php][ON:true ] Image Map Pro
+PLUGIN [SLUG:insert-headers-and-footers/ihaf.php               ][ON:true ] Insert Headers and Footers
+PLUGIN [SLUG:iThemeland-News-Ticker-For-Elementor/main.php     ][ON:false] iThemeland News Ticker for Elementor
+PLUGIN [SLUG:live-stream-time/live_steam_time.php              ][ON:true ] Live Stream Time
+PLUGIN [SLUG:check/emailLogin.php                              ][ON:false] Login Plugin
+PLUGIN [SLUG:media-library-assistant/index.php                 ][ON:true ] Media Library Assistant
+PLUGIN [SLUG:migrate-guru/migrateguru.php                      ][ON:true ] Migrate Guru
+PLUGIN [SLUG:modal-window/modal-window.php                     ][ON:true ] Modal Window
+PLUGIN [SLUG:mplugin.php                                       ][ON:false] Monetization Code plugin
+PLUGIN [SLUG:multi-rating-pro/multi-rating-pro.php             ][ON:true ] Multi Rating Pro
+PLUGIN [SLUG:ninja-tables/ninja-tables.php                     ][ON:true ] Ninja Tables
+PLUGIN [SLUG:ninja-tables-pro/ninja-tables-pro.php             ][ON:true ] Ninja Tables Pro
+PLUGIN [SLUG:notification/notification.php                     ][ON:true ] Notification
+PLUGIN [SLUG:onclick-show-popup/onclick-show-popup.php         ][ON:true ] Onclick show popup
+PLUGIN [SLUG:planfy-online-booking/planfy.php                  ][ON:true ] Online Booking System - Planfy
+PLUGIN [SLUG:pdf-embedder/pdf_embedder.php                     ][ON:true ] PDF Embedder
+PLUGIN [SLUG:pdfjs-viewer-shortcode/pdfjs-viewer.php           ][ON:true ] PDFjs Viewer
+PLUGIN [SLUG:peters-login-redirect/wplogin_redirect.php        ][ON:true ] Peter's Login Redirect
+PLUGIN [SLUG:popup-maker/popup-maker.php                       ][ON:true ] Popup Maker
+PLUGIN [SLUG:pro-elements/elementor-pro.php                    ][ON:false] PRO Elements
+PLUGIN [SLUG:login-plugin/hello.php                            ][ON:true ] React API
+PLUGIN [SLUG:remove-dashboard-access-for-non-admins/remove-dashboard-access.php][ON:false] Remove Dashboard Access
+PLUGIN [SLUG:welcome-email-editor/sb_welcome_email_editor.php  ][ON:false] SB Welcome Email Editor
+PLUGIN [SLUG:shortcodes-ultimate/shortcodes-ultimate.php       ][ON:true ] Shortcodes Ultimate
+PLUGIN [SLUG:show-user-id/show-user-id.php                     ][ON:true ] Show User ID
+PLUGIN [SLUG:custom-css-js/custom-css-js.php                   ][ON:true ] Simple Custom CSS and JS
+PLUGIN [SLUG:simple-restrict/simple-restrict.php               ][ON:true ] Simple Restrict
+PLUGIN [SLUG:tablepress/tablepress.php                         ][ON:true ] TablePress
+PLUGIN [SLUG:tawkto-live-chat/tawkto.php                       ][ON:false] Tawk.to Live Chat
+PLUGIN [SLUG:the7-cli/the7-cli.php                             ][ON:true ] The7 CLI
+PLUGIN [SLUG:convertplug/convertplug.php                       ][ON:true ] The7 Convert Plus
+PLUGIN [SLUG:dt-the7-core/dt-the7-core.php                     ][ON:true ] The7 Elements
+PLUGIN [SLUG:LayerSlider/layerslider.php                       ][ON:true ] The7 LayerSlider WP
+PLUGIN [SLUG:revslider/revslider.php                           ][ON:true ] The7 Slider Revolution
+PLUGIN [SLUG:Ultimate_VC_Addons/Ultimate_VC_Addons.php         ][ON:true ] The7 Ultimate Addons for WPBakery Page Builder
+PLUGIN [SLUG:js_composer/js_composer.php                       ][ON:true ] The7 WPBakery Page Builder
+PLUGIN [SLUG:updraftplus/updraftplus.php                       ][ON:true ] UpdraftPlus - Backup/Restore
+PLUGIN [SLUG:user-login-history/user-login-history.php         ][ON:false] User Login History
+PLUGIN [SLUG:user-menus/user-menus.php                         ][ON:true ] User Menus
+PLUGIN [SLUG:videojs-html5-player/videojs-html5-player.php     ][ON:true ] Videojs HTML5 Player
+PLUGIN [SLUG:video-popup/video-popup.php                       ][ON:true ] Video PopUp
+PLUGIN [SLUG:wonderplugin-pdf-embed/wonderplugin-pdf.php       ][ON:true ] Wonder PDF Embed
+PLUGIN [SLUG:wordfence/wordfence.php                           ][ON:true ] Wordfence Security
+PLUGIN [SLUG:users-customers-import-export-for-wp-woocommerce/users-customers-import-export-for-wp-woocommerce.php][ON:true ] WordPress Users & WooCommerce Customers Import Export(BASIC)
+PLUGIN [SLUG:cf7-styler/cf7-styler.php                         ][ON:true ] WOW Style Contact Form 7
+PLUGIN [SLUG:wp-optimize/wp-optimize.php                       ][ON:true ] WP-Optimize - Clean, Compress, Cache
+PLUGIN [SLUG:wp-file-manager/file_folder_manager.php           ][ON:true ] WP File Manager
+PLUGIN [SLUG:wpforms/wpforms.php                               ][ON:true ] WPForms
+PLUGIN [SLUG:wp-google-analytics-events/ga-scroll-event.php    ][ON:true ] WP Google Analytics Events
+PLUGIN [SLUG:wp-mail-smtp/wp_mail_smtp.php                     ][ON:true ] WP Mail SMTP
+PLUGIN [SLUG:wp-post-modal/wp-post-modal.php                   ][ON:true ] WP Post Popup
+PLUGIN [SLUG:wps-hide-login/wps-hide-login.php                 ][ON:true ] WPS Hide Login
+PLUGIN [SLUG:wp-sort-order/index.php                           ][ON:true ] WP Sort Order
+PLUGIN [SLUG:wp-statistics/wp-statistics.php                   ][ON:false] WP Statistics
+PLUGIN [SLUG:wp-table-builder/wp-table-builder.php             ][ON:false] WP Table Builder
+PLUGIN [SLUG:custom-login-with-api/custom_login_with_api.php   ][ON:true ] WP User Login
+PLUGIN [SLUG:wp-video-lightbox/wp-video-lightbox.php           ][ON:true ] WP Video Lightbox
+PLUGIN [SLUG:yandex-metrica/yandex-metrica.php                 ][ON:false] Yandex Metrica
+PLUGIN [SLUG:wordpress-seo/wp-seo.php                          ][ON:true ] Yoast SEO
+PLUGIN [SLUG:advanced-cache.php                                ][ON:false] advanced-cache.php
+--------------------------------------
+--------------------------------------
+
+TEST DUPX_Validation_test_archive_check result: passed
+LOG-TIME[/home/live.tele-medicine.live/public_html/dup-installer/ctrls/ctrl.base.php:236][DELTA:   0.02732]  MESSAGE:END RENDER PAGE
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+STEP ACTION: "on-validate"
+TEST DUPX_Validation_test_archive_check result: passed
+LOG-TIME[/home/live.tele-medicine.live/public_html/dup-installer/ctrls/ctrl.base.php:236][DELTA:   0.01551]  MESSAGE:END RENDER PAGE
+
+-------------------------
+AJAX ACTION [validate] START
+TEST DUPX_Validation_test_archive_check result: passed
+TEST DUPX_Validation_test_owrinstall result: skip
+TEST DUPX_Validation_test_recovery result: skip
+TEST DUPX_Validation_test_manual_extraction result: good
+TEST DUPX_Validation_test_dbonly_iswordpress result: skip
+TEST DUPX_Validation_test_package_age result: good
+TEST DUPX_Validation_test_replace_paths result: skip
+TEST DUPX_Validation_test_managed_supported result: skip
+TEST DUPX_Validation_test_multisite_subfolder result: skip
+TEST DUPX_Validation_test_addon_sites result: good
+TEST DUPX_Validation_test_wordfence result: good
+TEST DUPX_Validation_test_managed_tprefix result: skip
+TEST DUPX_Validation_test_php_version result: good
+TEST DUPX_Validation_test_open_basedir result: good
+TEST DUPX_Validation_test_extensions result: good
+TEST DUPX_Validation_test_mysql_connect result: passed
+TEST DUPX_Validation_test_tokenizer result: passed
+TEST DUPX_Validation_test_timeout result: good
+TEST DUPX_Validation_test_disk_space result: good
+TEST DUPX_Validation_test_iswritable result: passed
+TEST DUPX_Validation_test_iswritable_configs result: passed
+TEST DUPX_Validation_test_cpnl_connection result: skip
+TEST DUPX_Validation_test_cpnl_new_user result: skip
+TEST DUPX_Validation_test_db_host_name result: passed
+TEST DUPX_Validation_test_db_connection result: passed
+TEST DUPX_Validation_test_db_version result: passed
+TEST DUPX_Validation_test_db_create result: skip
+TEST DUPX_Validation_test_db_visibility result: passed
+TEST DUPX_Validation_test_db_manual_tabels_count result: skip
+TEST DUPX_Validation_test_db_user_perms result: passed
+TEST DUPX_Validation_test_db_custom_queries result: passed
+TEST DUPX_Validation_test_db_supported_default_charset result: passed
+TEST DUPX_Validation_test_db_supported_charset result: passed
+TEST DUPX_Validation_test_db_gtid_mode result: passed
+TEST DUPX_Validation_test_db_case_sensitive_tables result: passed
+TEST DUPX_Validation_test_db_cleanup result: skip
+TEST DUPX_Validation_test_db_user_cleanup result: skip
+
+CTRL PARAMS AFTER VALIDATION
+AJAX ACTION [validate] SUCCESS
+-------------------------
+
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+
+-------------------------
+AJAX ACTION [extract] START
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 03:47:32
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+RESTORE BACKUP MODE_: false
+HOME URL NEW________: "https://live.tele-medicine.live"
+SITE URL NEW________: "https://live.tele-medicine.live"
+CONTENT URL NEW_____: "https://live.tele-medicine.live/wp-content"
+UPLOAD URL NEW______: "https://live.tele-medicine.live/wp-content/uploads"
+PLUGINS URL NEW_____: "https://live.tele-medicine.live/wp-content/plugins"
+MUPLUGINS URL NEW___: "https://live.tele-medicine.live/wp-content/mu-plugins"
+HOME PATH NEW_______: "/home/live.tele-medicine.live/public_html"
+SITE PATH NEW_______: "/home/live.tele-medicine.live/public_html"
+CONTENT PATH NEW____: "/home/live.tele-medicine.live/public_html/wp-content"
+UPLOAD PATH NEW_____: "/home/live.tele-medicine.live/public_html/wp-content/uploads"
+PLUGINS PATH NEW____: "/home/live.tele-medicine.live/public_html/wp-content/plugins"
+MUPLUGINS PATH NEW__: "/home/live.tele-medicine.live/public_html/wp-content/mu-plugins"
+ARCHIVE ACTION______: "donothing"
+SKIP WP CORE________: false
+ARCHIVE ENGINE______: "duparchive"
+SET DIR PERMS_______: true
+DIR PERMS VALUE_____: 0755
+SET FILE PERMS______: true
+FILE PERMS VALUE____: 0644
+SAFE MODE___________: 0
+LOGGING_____________: 1
+WP CONFIG___________: "modify"
+HTACCESS CONFIG_____: "new"
+OTHER CONFIG________: "new"
+FILE TIME___________: "current"
+REMOVE RENDUNDANT___: false
+********************************************************************************
+
+--------------------------------------
+
+PATHS MAPPING_______: "/home/live.tele-medicine.live/public_html"
+--------------------------------------
+
+
+EXTRACTION: DUP ARCHIVE >>> START
+MAINTENANCE MODE ENABLE
+BEFORE EXTRACION ACTIONS
+
+*** RESET CONFIG FILES IN CURRENT HOSTING
+*** RESET CONFIG FILES OK
+
+*** CREATE FOLDER AND PERMISSION PREPARE
+FOLDER PREPARE DONE
+ARCHIVE OFFSET 0
+DAWN START EXPAND
+DUP EXPAND OFFSET 32
+CHUNK COMPLETE - RUNTIME: 4.6750 sec. - Files processed: 26,921 of 63,283
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 217905173
+DAWN CONTINUE EXPAND
+#### seeking archive offset 217905173
+DUP EXPAND OFFSET 217905173
+CHUNK COMPLETE - RUNTIME: 4.9785 sec. - Files processed: 45,613 of 63,283
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+
+-------------------------
+AJAX ACTION [extract] START
+MAINTENANCE MODE ENABLE
+ARCHIVE OFFSET 849223159
+DAWN CONTINUE EXPAND
+#### seeking archive offset 849223159
+DUP EXPAND OFFSET 849223159
+DUP EXPAND DONE
+
+
+EXTRACTION: DUP ARCHIVE >>> DONE
+
+EXTRACTION COMPLETE @ 03:47:43 - RUNTIME: 11.0270 sec. - Files processed: 63,283 of 63,283
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+
+-------------------------
+AJAX ACTION [dbinstall] START
+
+
+
+********************************************************************************
+* DUPLICATOR PRO INSTALL-LOG
+* STEP-2 START @ 03:47:43
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+DB ENGINE___________: "chunk"
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+KEEP USERS__________: 0
+TABLE PREFIX________: "wp_"
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+NON-BREAKING SPACES_: false
+CHARSET_____________: "utf8mb4"
+COLLATE_____________: ""
+CUNKING_____________: true
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+SPLIT CREATES_______: true
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 5.7.32 -- Build Server: 5.5.62
+FILE SIZE:	dup-database__[HASH].sql (28.26MB)
+TIMEOUT:	5000
+MAXPACK:	268435456
+SQLMODE-GLOBAL:	ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+SQLMODE-SESSION:NO_AUTO_VALUE_ON_ZERO
+--------------------------------------
+TABLES AND ROWS IN ARCHIVE
+--------------------------------------
+TABLE "wp_actionscheduler_actions"______________________[INSERTED ROWS:    79]
+TABLE "wp_actionscheduler_claims"_______________________[INSERTED ROWS:     0]
+TABLE "wp_actionscheduler_groups"_______________________[INSERTED ROWS:     3]
+TABLE "wp_actionscheduler_logs"_________________________[INSERTED ROWS:   233]
+TABLE "wp_aiowps_events"________________________________[INSERTED ROWS:     0]
+TABLE "wp_aiowps_failed_logins"_________________________[INSERTED ROWS:     0]
+TABLE "wp_aiowps_global_meta"___________________________[INSERTED ROWS:     0]
+TABLE "wp_aiowps_login_activity"________________________[INSERTED ROWS:     0]
+TABLE "wp_aiowps_login_lockdown"________________________[INSERTED ROWS:     0]
+TABLE "wp_aiowps_permanent_block"_______________________[INSERTED ROWS:     0]
+TABLE "wp_amelia_appointments"__________________________[INSERTED ROWS:     0]
+TABLE "wp_amelia_categories"____________________________[INSERTED ROWS:     0]
+TABLE "wp_amelia_coupons"_______________________________[INSERTED ROWS:     0]
+TABLE "wp_amelia_coupons_to_events"_____________________[INSERTED ROWS:     0]
+TABLE "wp_amelia_coupons_to_services"___________________[INSERTED ROWS:     0]
+TABLE "wp_amelia_custom_fields"_________________________[INSERTED ROWS:     0]
+TABLE "wp_amelia_custom_fields_events"__________________[INSERTED ROWS:     0]
+TABLE "wp_amelia_custom_fields_options"_________________[INSERTED ROWS:     0]
+TABLE "wp_amelia_custom_fields_services"________________[INSERTED ROWS:     0]
+TABLE "wp_amelia_customer_bookings"_____________________[INSERTED ROWS:     0]
+TABLE "wp_amelia_customer_bookings_to_events_periods"___[INSERTED ROWS:     0]
+TABLE "wp_amelia_customer_bookings_to_extras"___________[INSERTED ROWS:     0]
+TABLE "wp_amelia_events"________________________________[INSERTED ROWS:     0]
+TABLE "wp_amelia_events_periods"________________________[INSERTED ROWS:     0]
+TABLE "wp_amelia_events_tags"___________________________[INSERTED ROWS:     0]
+TABLE "wp_amelia_events_to_providers"___________________[INSERTED ROWS:     0]
+TABLE "wp_amelia_extras"________________________________[INSERTED ROWS:     0]
+TABLE "wp_amelia_galleries"_____________________________[INSERTED ROWS:     0]
+TABLE "wp_amelia_locations"_____________________________[INSERTED ROWS:     0]
+TABLE "wp_amelia_locations_views"_______________________[INSERTED ROWS:     0]
+TABLE "wp_amelia_notifications"_________________________[INSERTED ROWS:    52]
+TABLE "wp_amelia_notifications_log"_____________________[INSERTED ROWS:     0]
+TABLE "wp_amelia_notifications_sms_history"_____________[INSERTED ROWS:     0]
+TABLE "wp_amelia_payments"______________________________[INSERTED ROWS:     0]
+TABLE "wp_amelia_providers_to_daysoff"__________________[INSERTED ROWS:     0]
+TABLE "wp_amelia_providers_to_events"___________________[INSERTED ROWS:     0]
+TABLE "wp_amelia_providers_to_google_calendar"__________[INSERTED ROWS:     0]
+TABLE "wp_amelia_providers_to_locations"________________[INSERTED ROWS:     0]
+TABLE "wp_amelia_providers_to_periods"__________________[INSERTED ROWS:     0]
+TABLE "wp_amelia_providers_to_periods_services"_________[INSERTED ROWS:     0]
+TABLE "wp_amelia_providers_to_services"_________________[INSERTED ROWS:     0]
+TABLE "wp_amelia_providers_to_specialdays"______________[INSERTED ROWS:     0]
+TABLE "wp_amelia_providers_to_specialdays_periods"______[INSERTED ROWS:     0]
+TABLE "wp_amelia_providers_to_specialdays_periods_services"[INSERTED ROWS:     0]
+TABLE "wp_amelia_providers_to_timeouts"_________________[INSERTED ROWS:     0]
+TABLE "wp_amelia_providers_to_weekdays"_________________[INSERTED ROWS:     0]
+TABLE "wp_amelia_providers_views"_______________________[INSERTED ROWS:     0]
+TABLE "wp_amelia_services"______________________________[INSERTED ROWS:     0]
+TABLE "wp_amelia_services_views"________________________[INSERTED ROWS:     0]
+TABLE "wp_amelia_users"_________________________________[INSERTED ROWS:     0]
+TABLE "wp_commentmeta"__________________________________[INSERTED ROWS:     6]
+TABLE "wp_comments"_____________________________________[INSERTED ROWS:     2]
+TABLE "wp_duplicator_packages"__________________________[INSERTED ROWS:     0]
+TABLE "wp_duplicator_pro_entities"______________________[INSERTED ROWS:     5]
+TABLE "wp_duplicator_pro_packages"______________________[INSERTED ROWS:     1]
+TABLE "wp_esp_answer"___________________________________[INSERTED ROWS:     0]
+TABLE "wp_esp_attendee_meta"____________________________[INSERTED ROWS:     4]
+TABLE "wp_esp_checkin"__________________________________[INSERTED ROWS:     2]
+TABLE "wp_esp_country"__________________________________[INSERTED ROWS:   250]
+TABLE "wp_esp_currency"_________________________________[INSERTED ROWS:   153]
+TABLE "wp_esp_currency_payment_method"__________________[INSERTED ROWS:     0]
+TABLE "wp_esp_datetime"_________________________________[INSERTED ROWS:     1]
+TABLE "wp_esp_datetime_ticket"__________________________[INSERTED ROWS:     7]
+TABLE "wp_esp_event_message_template"___________________[INSERTED ROWS:    13]
+TABLE "wp_esp_event_meta"_______________________________[INSERTED ROWS:     1]
+TABLE "wp_esp_event_question_group"_____________________[INSERTED ROWS:     2]
+TABLE "wp_esp_event_venue"______________________________[INSERTED ROWS:     1]
+TABLE "wp_esp_extra_join"_______________________________[INSERTED ROWS:     0]
+TABLE "wp_esp_extra_meta"_______________________________[INSERTED ROWS:   216]
+TABLE "wp_esp_line_item"________________________________[INSERTED ROWS:    62]
+TABLE "wp_esp_log"______________________________________[INSERTED ROWS:     3]
+TABLE "wp_esp_message"__________________________________[INSERTED ROWS:    29]
+TABLE "wp_esp_message_template"_________________________[INSERTED ROWS:   139]
+TABLE "wp_esp_message_template_group"___________________[INSERTED ROWS:    15]
+TABLE "wp_esp_payment"__________________________________[INSERTED ROWS:     1]
+TABLE "wp_esp_payment_method"___________________________[INSERTED ROWS:    10]
+TABLE "wp_esp_price"____________________________________[INSERTED ROWS:    10]
+TABLE "wp_esp_price_type"_______________________________[INSERTED ROWS:     7]
+TABLE "wp_esp_promotion"________________________________[INSERTED ROWS:     1]
+TABLE "wp_esp_promotion_object"_________________________[INSERTED ROWS:     1]
+TABLE "wp_esp_question"_________________________________[INSERTED ROWS:    10]
+TABLE "wp_esp_question_group"___________________________[INSERTED ROWS:     2]
+TABLE "wp_esp_question_group_question"__________________[INSERTED ROWS:    10]
+TABLE "wp_esp_question_option"__________________________[INSERTED ROWS:     0]
+TABLE "wp_esp_registration"_____________________________[INSERTED ROWS:    10]
+TABLE "wp_esp_registration_payment"_____________________[INSERTED ROWS:     1]
+TABLE "wp_esp_state"____________________________________[INSERTED ROWS:    85]
+TABLE "wp_esp_status"___________________________________[INSERTED ROWS:    38]
+TABLE "wp_esp_ticket"___________________________________[INSERTED ROWS:     8]
+TABLE "wp_esp_ticket_price"_____________________________[INSERTED ROWS:     8]
+TABLE "wp_esp_ticket_template"__________________________[INSERTED ROWS:     0]
+TABLE "wp_esp_transaction"______________________________[INSERTED ROWS:    10]
+TABLE "wp_esp_venue_meta"_______________________________[INSERTED ROWS:     1]
+TABLE "wp_expm_hiiden_content"__________________________[INSERTED ROWS:     0]
+TABLE "wp_expm_maker"___________________________________[INSERTED ROWS:     1]
+TABLE "wp_expm_maker_pages"_____________________________[INSERTED ROWS:     0]
+TABLE "wp_fa_user_logins"_______________________________[INSERTED ROWS:   826]
+TABLE "wp_ff_scheduled_actions"_________________________[INSERTED ROWS:     0]
+TABLE "wp_fluentform_draft_submissions"_________________[INSERTED ROWS:     0]
+TABLE "wp_fluentform_entry_details"_____________________[INSERTED ROWS:    37]
+TABLE "wp_fluentform_form_analytics"____________________[INSERTED ROWS:  6233]
+TABLE "wp_fluentform_form_meta"_________________________[INSERTED ROWS:    33]
+TABLE "wp_fluentform_forms"_____________________________[INSERTED ROWS:     2]
+TABLE "wp_fluentform_logs"______________________________[INSERTED ROWS:    27]
+TABLE "wp_fluentform_order_items"_______________________[INSERTED ROWS:     0]
+TABLE "wp_fluentform_submission_meta"___________________[INSERTED ROWS:     0]
+TABLE "wp_fluentform_submissions"_______________________[INSERTED ROWS:     6]
+TABLE "wp_fluentform_subscriptions"_____________________[INSERTED ROWS:     0]
+TABLE "wp_fluentform_transactions"______________________[INSERTED ROWS:     0]
+TABLE "wp_give_commentmeta"_____________________________[INSERTED ROWS:     0]
+TABLE "wp_give_comments"________________________________[INSERTED ROWS:     0]
+TABLE "wp_give_donationmeta"____________________________[INSERTED ROWS:     0]
+TABLE "wp_give_donormeta"_______________________________[INSERTED ROWS:     0]
+TABLE "wp_give_donors"__________________________________[INSERTED ROWS:     0]
+TABLE "wp_give_formmeta"________________________________[INSERTED ROWS:     0]
+TABLE "wp_give_logmeta"_________________________________[INSERTED ROWS:     0]
+TABLE "wp_give_logs"____________________________________[INSERTED ROWS:     0]
+TABLE "wp_give_sequential_ordering"_____________________[INSERTED ROWS:     0]
+TABLE "wp_give_sessions"________________________________[INSERTED ROWS:     0]
+TABLE "wp_layerslider"__________________________________[INSERTED ROWS:     0]
+TABLE "wp_layerslider_revisions"________________________[INSERTED ROWS:     0]
+TABLE "wp_lbg_vp1_html5_players"________________________[INSERTED ROWS:     2]
+TABLE "wp_lbg_vp1_html5_videosettings"__________________[INSERTED ROWS:     2]
+TABLE "wp_learn_espresso"_______________________________[INSERTED ROWS:     0]
+TABLE "wp_learndash_pro_quiz_category"__________________[INSERTED ROWS:     0]
+TABLE "wp_learndash_pro_quiz_form"______________________[INSERTED ROWS:     0]
+TABLE "wp_learndash_pro_quiz_lock"______________________[INSERTED ROWS:     0]
+TABLE "wp_learndash_pro_quiz_master"____________________[INSERTED ROWS:     1]
+TABLE "wp_learndash_pro_quiz_prerequisite"______________[INSERTED ROWS:     0]
+TABLE "wp_learndash_pro_quiz_question"__________________[INSERTED ROWS:     1]
+TABLE "wp_learndash_pro_quiz_statistic"_________________[INSERTED ROWS:     0]
+TABLE "wp_learndash_pro_quiz_statistic_ref"_____________[INSERTED ROWS:     0]
+TABLE "wp_learndash_pro_quiz_template"__________________[INSERTED ROWS:     0]
+TABLE "wp_learndash_pro_quiz_toplist"___________________[INSERTED ROWS:     0]
+TABLE "wp_learndash_user_activity"______________________[INSERTED ROWS:     2]
+TABLE "wp_learndash_user_activity_meta"_________________[INSERTED ROWS:     5]
+TABLE "wp_links"________________________________________[INSERTED ROWS:     0]
+TABLE "wp_login_redirects"______________________________[INSERTED ROWS:     2]
+TABLE "wp_mec_dates"____________________________________[INSERTED ROWS: 12856]
+TABLE "wp_mec_events"___________________________________[INSERTED ROWS:     5]
+TABLE "wp_mphb_sync_logs"_______________________________[INSERTED ROWS:     0]
+TABLE "wp_mphb_sync_queue"______________________________[INSERTED ROWS:     0]
+TABLE "wp_mphb_sync_stats"______________________________[INSERTED ROWS:     0]
+TABLE "wp_mphb_sync_urls"_______________________________[INSERTED ROWS:     0]
+TABLE "wp_mrp_custom_fields"____________________________[INSERTED ROWS:     0]
+TABLE "wp_mrp_rating_form"______________________________[INSERTED ROWS:     6]
+TABLE "wp_mrp_rating_form_item"_________________________[INSERTED ROWS:    16]
+TABLE "wp_mrp_rating_item"______________________________[INSERTED ROWS:     1]
+TABLE "wp_mrp_rating_item_entry"________________________[INSERTED ROWS:     7]
+TABLE "wp_mrp_rating_item_entry_value"__________________[INSERTED ROWS:     7]
+TABLE "wp_mrp_rating_result"____________________________[INSERTED ROWS:    23]
+TABLE "wp_ninja_table_items"____________________________[INSERTED ROWS:    84]
+TABLE "wp_notification_logs"____________________________[INSERTED ROWS:     0]
+TABLE "wp_onclick_show_popup"___________________________[INSERTED ROWS:     4]
+TABLE "wp_options"______________________________________[INSERTED ROWS:  1336]
+TABLE "wp_postmeta"_____________________________________[INSERTED ROWS: 10367]
+TABLE "wp_posts"________________________________________[INSERTED ROWS:  1007]
+TABLE "wp_pps_countries"________________________________[INSERTED ROWS:   240]
+TABLE "wp_pps_popup"____________________________________[INSERTED ROWS:    48]
+TABLE "wp_pps_popup_show_categories"____________________[INSERTED ROWS:     0]
+TABLE "wp_revslider_css"________________________________[INSERTED ROWS:   109]
+TABLE "wp_revslider_css_bkp"____________________________[INSERTED ROWS:    47]
+TABLE "wp_revslider_layer_animations"___________________[INSERTED ROWS:     0]
+TABLE "wp_revslider_layer_animations_bkp"_______________[INSERTED ROWS:     0]
+TABLE "wp_revslider_navigations"________________________[INSERTED ROWS:     6]
+TABLE "wp_revslider_navigations_bkp"____________________[INSERTED ROWS:     0]
+TABLE "wp_revslider_sliders"____________________________[INSERTED ROWS:    33]
+TABLE "wp_revslider_sliders_bkp"________________________[INSERTED ROWS:     0]
+TABLE "wp_revslider_slides"_____________________________[INSERTED ROWS:    38]
+TABLE "wp_revslider_slides_bkp"_________________________[INSERTED ROWS:     0]
+TABLE "wp_revslider_static_slides"______________________[INSERTED ROWS:    33]
+TABLE "wp_revslider_static_slides_bkp"__________________[INSERTED ROWS:     0]
+TABLE "wp_statistics_exclusions"________________________[INSERTED ROWS:     0]
+TABLE "wp_statistics_historical"________________________[INSERTED ROWS:     0]
+TABLE "wp_statistics_pages"_____________________________[INSERTED ROWS:     0]
+TABLE "wp_statistics_search"____________________________[INSERTED ROWS:    17]
+TABLE "wp_statistics_useronline"________________________[INSERTED ROWS:     0]
+TABLE "wp_statistics_visit"_____________________________[INSERTED ROWS:    28]
+TABLE "wp_statistics_visitor"___________________________[INSERTED ROWS:     0]
+TABLE "wp_term_relationships"___________________________[INSERTED ROWS:   142]
+TABLE "wp_term_taxonomy"________________________________[INSERTED ROWS:    27]
+TABLE "wp_termmeta"_____________________________________[INSERTED ROWS:     2]
+TABLE "wp_terms"________________________________________[INSERTED ROWS:    27]
+TABLE "wp_tm_taskmeta"__________________________________[INSERTED ROWS:     0]
+TABLE "wp_tm_tasks"_____________________________________[INSERTED ROWS:     0]
+TABLE "wp_uji_counter"__________________________________[INSERTED ROWS:     1]
+TABLE "wp_usermeta"_____________________________________[INSERTED ROWS:  3132]
+TABLE "wp_users"________________________________________[INSERTED ROWS:   157]
+TABLE "wp_wc_admin_note_actions"________________________[INSERTED ROWS:     4]
+TABLE "wp_wc_admin_notes"_______________________________[INSERTED ROWS:     4]
+TABLE "wp_wc_category_lookup"___________________________[INSERTED ROWS:     0]
+TABLE "wp_wc_customer_lookup"___________________________[INSERTED ROWS:     0]
+TABLE "wp_wc_download_log"______________________________[INSERTED ROWS:     0]
+TABLE "wp_wc_order_coupon_lookup"_______________________[INSERTED ROWS:     0]
+TABLE "wp_wc_order_product_lookup"______________________[INSERTED ROWS:     0]
+TABLE "wp_wc_order_stats"_______________________________[INSERTED ROWS:     0]
+TABLE "wp_wc_order_tax_lookup"__________________________[INSERTED ROWS:     0]
+TABLE "wp_wc_product_meta_lookup"_______________________[INSERTED ROWS:     0]
+TABLE "wp_wc_tax_rate_classes"__________________________[INSERTED ROWS:     2]
+TABLE "wp_wc_webhooks"__________________________________[INSERTED ROWS:     0]
+TABLE "wp_wfblockediplog"_______________________________[INSERTED ROWS:     4]
+TABLE "wp_wfblocks7"____________________________________[INSERTED ROWS:     0]
+TABLE "wp_wfconfig"_____________________________________[INSERTED ROWS:   264]
+TABLE "wp_wfcrawlers"___________________________________[INSERTED ROWS:     3]
+TABLE "wp_wffilechanges"________________________________[INSERTED ROWS:     0]
+TABLE "wp_wffilemods"___________________________________[INSERTED ROWS: 25321]
+TABLE "wp_wfhits"_______________________________________[INSERTED ROWS:   993]
+TABLE "wp_wfhoover"_____________________________________[INSERTED ROWS:     0]
+TABLE "wp_wfissues"_____________________________________[INSERTED ROWS:    41]
+TABLE "wp_wfknownfilelist"______________________________[INSERTED ROWS: 25321]
+TABLE "wp_wflivetraffichuman"___________________________[INSERTED ROWS:     0]
+TABLE "wp_wflocs"_______________________________________[INSERTED ROWS:     1]
+TABLE "wp_wflogins"_____________________________________[INSERTED ROWS:   949]
+TABLE "wp_wfls_2fa_secrets"_____________________________[INSERTED ROWS:     0]
+TABLE "wp_wfls_settings"________________________________[INSERTED ROWS:    19]
+TABLE "wp_wfnotifications"______________________________[INSERTED ROWS:     2]
+TABLE "wp_wfpendingissues"______________________________[INSERTED ROWS:     1]
+TABLE "wp_wfreversecache"_______________________________[INSERTED ROWS:     1]
+TABLE "wp_wfsnipcache"__________________________________[INSERTED ROWS:     0]
+TABLE "wp_wfstatus"_____________________________________[INSERTED ROWS:   943]
+TABLE "wp_wftrafficrates"_______________________________[INSERTED ROWS:     0]
+TABLE "wp_woocommerce_api_keys"_________________________[INSERTED ROWS:     0]
+TABLE "wp_woocommerce_attribute_taxonomies"_____________[INSERTED ROWS:     0]
+TABLE "wp_woocommerce_downloadable_product_permissions"_[INSERTED ROWS:     0]
+TABLE "wp_woocommerce_log"______________________________[INSERTED ROWS:     0]
+TABLE "wp_woocommerce_order_itemmeta"___________________[INSERTED ROWS:     0]
+TABLE "wp_woocommerce_order_items"______________________[INSERTED ROWS:     0]
+TABLE "wp_woocommerce_payment_tokenmeta"________________[INSERTED ROWS:     0]
+TABLE "wp_woocommerce_payment_tokens"___________________[INSERTED ROWS:     0]
+TABLE "wp_woocommerce_sessions"_________________________[INSERTED ROWS:     0]
+TABLE "wp_woocommerce_shipping_zone_locations"__________[INSERTED ROWS:     0]
+TABLE "wp_woocommerce_shipping_zone_methods"____________[INSERTED ROWS:     0]
+TABLE "wp_woocommerce_shipping_zones"___________________[INSERTED ROWS:     0]
+TABLE "wp_woocommerce_tax_rate_locations"_______________[INSERTED ROWS:     0]
+TABLE "wp_woocommerce_tax_rates"________________________[INSERTED ROWS:     0]
+TABLE "wp_wow_mwp"______________________________________[INSERTED ROWS:     1]
+TABLE "wp_wpabstracts_abstracts"________________________[INSERTED ROWS:     2]
+TABLE "wp_wpabstracts_attachments"______________________[INSERTED ROWS:     1]
+TABLE "wp_wpabstracts_emailtemplates"___________________[INSERTED ROWS:     7]
+TABLE "wp_wpabstracts_events"___________________________[INSERTED ROWS:     1]
+TABLE "wp_wpabstracts_statuses"_________________________[INSERTED ROWS:     4]
+TABLE "wp_wpabstracts_users"____________________________[INSERTED ROWS:    17]
+TABLE "wp_wpfm_backup"__________________________________[INSERTED ROWS:     0]
+TABLE "wp_wpforms_entries"______________________________[INSERTED ROWS:     8]
+TABLE "wp_wpforms_entry_fields"_________________________[INSERTED ROWS:    24]
+TABLE "wp_wpforms_entry_meta"___________________________[INSERTED ROWS:     1]
+TABLE "wp_wpforms_tasks_meta"___________________________[INSERTED ROWS:    96]
+TABLE "wp_wpmailsmtp_tasks_meta"________________________[INSERTED ROWS:    94]
+TABLE "wp_wswebinars_chats"_____________________________[INSERTED ROWS:     3]
+TABLE "wp_wswebinars_questions"_________________________[INSERTED ROWS:     0]
+TABLE "wp_wswebinars_subscribers"_______________________[INSERTED ROWS:     1]
+TABLE "wp_wt_iew_action_history"________________________[INSERTED ROWS:     4]
+TABLE "wp_wt_iew_cron"__________________________________[INSERTED ROWS:     0]
+TABLE "wp_wt_iew_ftp"___________________________________[INSERTED ROWS:     0]
+TABLE "wp_wt_iew_mapping_template"______________________[INSERTED ROWS:     1]
+TABLE "wp_yasr_log"_____________________________________[INSERTED ROWS:     0]
+TABLE "wp_yasr_log_multi_set"___________________________[INSERTED ROWS:     0]
+TABLE "wp_yasr_multi_set"_______________________________[INSERTED ROWS:     0]
+TABLE "wp_yasr_multi_set_fields"________________________[INSERTED ROWS:     0]
+TABLE "wp_ycd_subscribers"______________________________[INSERTED ROWS:     0]
+TABLE "wp_yoast_indexable"______________________________[INSERTED ROWS:   601]
+TABLE "wp_yoast_indexable_hierarchy"____________________[INSERTED ROWS:    41]
+TABLE "wp_yoast_migrations"_____________________________[INSERTED ROWS:    18]
+TABLE "wp_yoast_primary_term"___________________________[INSERTED ROWS:    15]
+TABLE "wp_yoast_seo_links"______________________________[INSERTED ROWS:   151]
+--------------------------------------
+
+
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 0
+Auto Commit set to false successfully
+DATABASE CHUNK: CREATION TABLE MARKER FOUND
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+
+-------------------------
+AJAX ACTION [dbinstall] START
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 9396828
+Auto Commit set to false successfully
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+CLEANUP ROUTINE START
+Starting Cleanup Routine...
+CLEANUP ROUTINE COMPLETE
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	571
+
+TABLES ROWS IN DATABASE AFTER EXTRACTION
+
+TABLE "wp_actionscheduler_actions"______________________[ROWS:    79]
+TABLE "wp_actionscheduler_claims"_______________________[ROWS:     0]
+TABLE "wp_actionscheduler_groups"_______________________[ROWS:     3]
+TABLE "wp_actionscheduler_logs"_________________________[ROWS:   233]
+TABLE "wp_aiowps_events"________________________________[ROWS:     0]
+TABLE "wp_aiowps_failed_logins"_________________________[ROWS:     0]
+TABLE "wp_aiowps_global_meta"___________________________[ROWS:     0]
+TABLE "wp_aiowps_login_activity"________________________[ROWS:     0]
+TABLE "wp_aiowps_login_lockdown"________________________[ROWS:     0]
+TABLE "wp_aiowps_permanent_block"_______________________[ROWS:     0]
+TABLE "wp_amelia_appointments"__________________________[ROWS:     0]
+TABLE "wp_amelia_categories"____________________________[ROWS:     0]
+TABLE "wp_amelia_coupons"_______________________________[ROWS:     0]
+TABLE "wp_amelia_coupons_to_events"_____________________[ROWS:     0]
+TABLE "wp_amelia_coupons_to_services"___________________[ROWS:     0]
+TABLE "wp_amelia_custom_fields"_________________________[ROWS:     0]
+TABLE "wp_amelia_custom_fields_events"__________________[ROWS:     0]
+TABLE "wp_amelia_custom_fields_options"_________________[ROWS:     0]
+TABLE "wp_amelia_custom_fields_services"________________[ROWS:     0]
+TABLE "wp_amelia_customer_bookings"_____________________[ROWS:     0]
+TABLE "wp_amelia_customer_bookings_to_events_periods"___[ROWS:     0]
+TABLE "wp_amelia_customer_bookings_to_extras"___________[ROWS:     0]
+TABLE "wp_amelia_events"________________________________[ROWS:     0]
+TABLE "wp_amelia_events_periods"________________________[ROWS:     0]
+TABLE "wp_amelia_events_tags"___________________________[ROWS:     0]
+TABLE "wp_amelia_events_to_providers"___________________[ROWS:     0]
+TABLE "wp_amelia_extras"________________________________[ROWS:     0]
+TABLE "wp_amelia_galleries"_____________________________[ROWS:     0]
+TABLE "wp_amelia_locations"_____________________________[ROWS:     0]
+TABLE "wp_amelia_locations_views"_______________________[ROWS:     0]
+TABLE "wp_amelia_notifications"_________________________[ROWS:    52]
+TABLE "wp_amelia_notifications_log"_____________________[ROWS:     0]
+TABLE "wp_amelia_notifications_sms_history"_____________[ROWS:     0]
+TABLE "wp_amelia_payments"______________________________[ROWS:     0]
+TABLE "wp_amelia_providers_to_daysoff"__________________[ROWS:     0]
+TABLE "wp_amelia_providers_to_events"___________________[ROWS:     0]
+TABLE "wp_amelia_providers_to_google_calendar"__________[ROWS:     0]
+TABLE "wp_amelia_providers_to_locations"________________[ROWS:     0]
+TABLE "wp_amelia_providers_to_periods"__________________[ROWS:     0]
+TABLE "wp_amelia_providers_to_periods_services"_________[ROWS:     0]
+TABLE "wp_amelia_providers_to_services"_________________[ROWS:     0]
+TABLE "wp_amelia_providers_to_specialdays"______________[ROWS:     0]
+TABLE "wp_amelia_providers_to_specialdays_periods"______[ROWS:     0]
+TABLE "wp_amelia_providers_to_specialdays_periods_services"[ROWS:     0]
+TABLE "wp_amelia_providers_to_timeouts"_________________[ROWS:     0]
+TABLE "wp_amelia_providers_to_weekdays"_________________[ROWS:     0]
+TABLE "wp_amelia_providers_views"_______________________[ROWS:     0]
+TABLE "wp_amelia_services"______________________________[ROWS:     0]
+TABLE "wp_amelia_services_views"________________________[ROWS:     0]
+TABLE "wp_amelia_users"_________________________________[ROWS:     0]
+TABLE "wp_commentmeta"__________________________________[ROWS:     6]
+TABLE "wp_comments"_____________________________________[ROWS:     2]
+TABLE "wp_duplicator_packages"__________________________[ROWS:     0]
+TABLE "wp_duplicator_pro_entities"______________________[ROWS:     5]
+TABLE "wp_duplicator_pro_packages"______________________[ROWS:     0]
+TABLE "wp_esp_answer"___________________________________[ROWS:     0]
+TABLE "wp_esp_attendee_meta"____________________________[ROWS:     4]
+TABLE "wp_esp_checkin"__________________________________[ROWS:     2]
+TABLE "wp_esp_country"__________________________________[ROWS:   250]
+TABLE "wp_esp_currency"_________________________________[ROWS:   153]
+TABLE "wp_esp_currency_payment_method"__________________[ROWS:     0]
+TABLE "wp_esp_datetime"_________________________________[ROWS:     1]
+TABLE "wp_esp_datetime_ticket"__________________________[ROWS:     7]
+TABLE "wp_esp_event_message_template"___________________[ROWS:    13]
+TABLE "wp_esp_event_meta"_______________________________[ROWS:     1]
+TABLE "wp_esp_event_question_group"_____________________[ROWS:     2]
+TABLE "wp_esp_event_venue"______________________________[ROWS:     1]
+TABLE "wp_esp_extra_join"_______________________________[ROWS:     0]
+TABLE "wp_esp_extra_meta"_______________________________[ROWS:   216]
+TABLE "wp_esp_line_item"________________________________[ROWS:    62]
+TABLE "wp_esp_log"______________________________________[ROWS:     3]
+TABLE "wp_esp_message"__________________________________[ROWS:    29]
+TABLE "wp_esp_message_template"_________________________[ROWS:   139]
+TABLE "wp_esp_message_template_group"___________________[ROWS:    15]
+TABLE "wp_esp_payment"__________________________________[ROWS:     1]
+TABLE "wp_esp_payment_method"___________________________[ROWS:    10]
+TABLE "wp_esp_price"____________________________________[ROWS:    10]
+TABLE "wp_esp_price_type"_______________________________[ROWS:     7]
+TABLE "wp_esp_promotion"________________________________[ROWS:     1]
+TABLE "wp_esp_promotion_object"_________________________[ROWS:     1]
+TABLE "wp_esp_question"_________________________________[ROWS:    10]
+TABLE "wp_esp_question_group"___________________________[ROWS:     2]
+TABLE "wp_esp_question_group_question"__________________[ROWS:    10]
+TABLE "wp_esp_question_option"__________________________[ROWS:     0]
+TABLE "wp_esp_registration"_____________________________[ROWS:    10]
+TABLE "wp_esp_registration_payment"_____________________[ROWS:     1]
+TABLE "wp_esp_state"____________________________________[ROWS:    85]
+TABLE "wp_esp_status"___________________________________[ROWS:    38]
+TABLE "wp_esp_ticket"___________________________________[ROWS:     8]
+TABLE "wp_esp_ticket_price"_____________________________[ROWS:     8]
+TABLE "wp_esp_ticket_template"__________________________[ROWS:     0]
+TABLE "wp_esp_transaction"______________________________[ROWS:    10]
+TABLE "wp_esp_venue_meta"_______________________________[ROWS:     1]
+TABLE "wp_expm_hiiden_content"__________________________[ROWS:     0]
+TABLE "wp_expm_maker"___________________________________[ROWS:     1]
+TABLE "wp_expm_maker_pages"_____________________________[ROWS:     0]
+TABLE "wp_fa_user_logins"_______________________________[ROWS:   826]
+TABLE "wp_ff_scheduled_actions"_________________________[ROWS:     0]
+TABLE "wp_fluentform_draft_submissions"_________________[ROWS:     0]
+TABLE "wp_fluentform_entry_details"_____________________[ROWS:    37]
+TABLE "wp_fluentform_form_analytics"____________________[ROWS:  6233]
+TABLE "wp_fluentform_form_meta"_________________________[ROWS:    33]
+TABLE "wp_fluentform_forms"_____________________________[ROWS:     2]
+TABLE "wp_fluentform_logs"______________________________[ROWS:    27]
+TABLE "wp_fluentform_order_items"_______________________[ROWS:     0]
+TABLE "wp_fluentform_submission_meta"___________________[ROWS:     0]
+TABLE "wp_fluentform_submissions"_______________________[ROWS:     6]
+TABLE "wp_fluentform_subscriptions"_____________________[ROWS:     0]
+TABLE "wp_fluentform_transactions"______________________[ROWS:     0]
+TABLE "wp_give_commentmeta"_____________________________[ROWS:     0]
+TABLE "wp_give_comments"________________________________[ROWS:     0]
+TABLE "wp_give_donationmeta"____________________________[ROWS:     0]
+TABLE "wp_give_donormeta"_______________________________[ROWS:     0]
+TABLE "wp_give_donors"__________________________________[ROWS:     0]
+TABLE "wp_give_formmeta"________________________________[ROWS:     0]
+TABLE "wp_give_logmeta"_________________________________[ROWS:     0]
+TABLE "wp_give_logs"____________________________________[ROWS:     0]
+TABLE "wp_give_sequential_ordering"_____________________[ROWS:     0]
+TABLE "wp_give_sessions"________________________________[ROWS:     0]
+TABLE "wp_layerslider"__________________________________[ROWS:     0]
+TABLE "wp_layerslider_revisions"________________________[ROWS:     0]
+TABLE "wp_lbg_vp1_html5_players"________________________[ROWS:     2]
+TABLE "wp_lbg_vp1_html5_videosettings"__________________[ROWS:     2]
+TABLE "wp_learn_espresso"_______________________________[ROWS:     0]
+TABLE "wp_learndash_pro_quiz_category"__________________[ROWS:     0]
+TABLE "wp_learndash_pro_quiz_form"______________________[ROWS:     0]
+TABLE "wp_learndash_pro_quiz_lock"______________________[ROWS:     0]
+TABLE "wp_learndash_pro_quiz_master"____________________[ROWS:     1]
+TABLE "wp_learndash_pro_quiz_prerequisite"______________[ROWS:     0]
+TABLE "wp_learndash_pro_quiz_question"__________________[ROWS:     1]
+TABLE "wp_learndash_pro_quiz_statistic"_________________[ROWS:     0]
+TABLE "wp_learndash_pro_quiz_statistic_ref"_____________[ROWS:     0]
+TABLE "wp_learndash_pro_quiz_template"__________________[ROWS:     0]
+TABLE "wp_learndash_pro_quiz_toplist"___________________[ROWS:     0]
+TABLE "wp_learndash_user_activity"______________________[ROWS:     2]
+TABLE "wp_learndash_user_activity_meta"_________________[ROWS:     5]
+TABLE "wp_links"________________________________________[ROWS:     0]
+TABLE "wp_login_redirects"______________________________[ROWS:     2]
+TABLE "wp_mec_dates"____________________________________[ROWS: 12856]
+TABLE "wp_mec_events"___________________________________[ROWS:     5]
+TABLE "wp_mphb_sync_logs"_______________________________[ROWS:     0]
+TABLE "wp_mphb_sync_queue"______________________________[ROWS:     0]
+TABLE "wp_mphb_sync_stats"______________________________[ROWS:     0]
+TABLE "wp_mphb_sync_urls"_______________________________[ROWS:     0]
+TABLE "wp_mrp_custom_fields"____________________________[ROWS:     0]
+TABLE "wp_mrp_rating_form"______________________________[ROWS:     6]
+TABLE "wp_mrp_rating_form_item"_________________________[ROWS:    16]
+TABLE "wp_mrp_rating_item"______________________________[ROWS:     1]
+TABLE "wp_mrp_rating_item_entry"________________________[ROWS:     7]
+TABLE "wp_mrp_rating_item_entry_value"__________________[ROWS:     7]
+TABLE "wp_mrp_rating_result"____________________________[ROWS:    23]
+TABLE "wp_ninja_table_items"____________________________[ROWS:    84]
+TABLE "wp_notification_logs"____________________________[ROWS:     0]
+TABLE "wp_onclick_show_popup"___________________________[ROWS:     4]
+TABLE "wp_options"______________________________________[ROWS:  1263]
+TABLE "wp_postmeta"_____________________________________[ROWS: 10367]
+TABLE "wp_posts"________________________________________[ROWS:  1007]
+TABLE "wp_pps_countries"________________________________[ROWS:   240]
+TABLE "wp_pps_popup"____________________________________[ROWS:    48]
+TABLE "wp_pps_popup_show_categories"____________________[ROWS:     0]
+TABLE "wp_revslider_css"________________________________[ROWS:   109]
+TABLE "wp_revslider_css_bkp"____________________________[ROWS:    47]
+TABLE "wp_revslider_layer_animations"___________________[ROWS:     0]
+TABLE "wp_revslider_layer_animations_bkp"_______________[ROWS:     0]
+TABLE "wp_revslider_navigations"________________________[ROWS:     6]
+TABLE "wp_revslider_navigations_bkp"____________________[ROWS:     0]
+TABLE "wp_revslider_sliders"____________________________[ROWS:    33]
+TABLE "wp_revslider_sliders_bkp"________________________[ROWS:     0]
+TABLE "wp_revslider_slides"_____________________________[ROWS:    38]
+TABLE "wp_revslider_slides_bkp"_________________________[ROWS:     0]
+TABLE "wp_revslider_static_slides"______________________[ROWS:    33]
+TABLE "wp_revslider_static_slides_bkp"__________________[ROWS:     0]
+TABLE "wp_statistics_exclusions"________________________[ROWS:     0]
+TABLE "wp_statistics_historical"________________________[ROWS:     0]
+TABLE "wp_statistics_pages"_____________________________[ROWS:     0]
+TABLE "wp_statistics_search"____________________________[ROWS:    17]
+TABLE "wp_statistics_useronline"________________________[ROWS:     0]
+TABLE "wp_statistics_visit"_____________________________[ROWS:    28]
+TABLE "wp_statistics_visitor"___________________________[ROWS:     0]
+TABLE "wp_term_relationships"___________________________[ROWS:   142]
+TABLE "wp_term_taxonomy"________________________________[ROWS:    27]
+TABLE "wp_termmeta"_____________________________________[ROWS:     2]
+TABLE "wp_terms"________________________________________[ROWS:    27]
+TABLE "wp_tm_taskmeta"__________________________________[ROWS:     0]
+TABLE "wp_tm_tasks"_____________________________________[ROWS:     0]
+TABLE "wp_uji_counter"__________________________________[ROWS:     1]
+TABLE "wp_usermeta"_____________________________________[ROWS:  3132]
+TABLE "wp_users"________________________________________[ROWS:   157]
+TABLE "wp_wc_admin_note_actions"________________________[ROWS:     4]
+TABLE "wp_wc_admin_notes"_______________________________[ROWS:     4]
+TABLE "wp_wc_category_lookup"___________________________[ROWS:     0]
+TABLE "wp_wc_customer_lookup"___________________________[ROWS:     0]
+TABLE "wp_wc_download_log"______________________________[ROWS:     0]
+TABLE "wp_wc_order_coupon_lookup"_______________________[ROWS:     0]
+TABLE "wp_wc_order_product_lookup"______________________[ROWS:     0]
+TABLE "wp_wc_order_stats"_______________________________[ROWS:     0]
+TABLE "wp_wc_order_tax_lookup"__________________________[ROWS:     0]
+TABLE "wp_wc_product_meta_lookup"_______________________[ROWS:     0]
+TABLE "wp_wc_tax_rate_classes"__________________________[ROWS:     2]
+TABLE "wp_wc_webhooks"__________________________________[ROWS:     0]
+TABLE "wp_wfblockediplog"_______________________________[ROWS:     4]
+TABLE "wp_wfblocks7"____________________________________[ROWS:     0]
+TABLE "wp_wfconfig"_____________________________________[ROWS:   264]
+TABLE "wp_wfcrawlers"___________________________________[ROWS:     3]
+TABLE "wp_wffilechanges"________________________________[ROWS:     0]
+TABLE "wp_wffilemods"___________________________________[ROWS: 25321]
+TABLE "wp_wfhits"_______________________________________[ROWS:   993]
+TABLE "wp_wfhoover"_____________________________________[ROWS:     0]
+TABLE "wp_wfissues"_____________________________________[ROWS:    41]
+TABLE "wp_wfknownfilelist"______________________________[ROWS: 25321]
+TABLE "wp_wflivetraffichuman"___________________________[ROWS:     0]
+TABLE "wp_wflocs"_______________________________________[ROWS:     1]
+TABLE "wp_wflogins"_____________________________________[ROWS:   949]
+TABLE "wp_wfls_2fa_secrets"_____________________________[ROWS:     0]
+TABLE "wp_wfls_settings"________________________________[ROWS:    19]
+TABLE "wp_wfnotifications"______________________________[ROWS:     2]
+TABLE "wp_wfpendingissues"______________________________[ROWS:     1]
+TABLE "wp_wfreversecache"_______________________________[ROWS:     1]
+TABLE "wp_wfsnipcache"__________________________________[ROWS:     0]
+TABLE "wp_wfstatus"_____________________________________[ROWS:   943]
+TABLE "wp_wftrafficrates"_______________________________[ROWS:     0]
+TABLE "wp_woocommerce_api_keys"_________________________[ROWS:     0]
+TABLE "wp_woocommerce_attribute_taxonomies"_____________[ROWS:     0]
+TABLE "wp_woocommerce_downloadable_product_permissions"_[ROWS:     0]
+TABLE "wp_woocommerce_log"______________________________[ROWS:     0]
+TABLE "wp_woocommerce_order_itemmeta"___________________[ROWS:     0]
+TABLE "wp_woocommerce_order_items"______________________[ROWS:     0]
+TABLE "wp_woocommerce_payment_tokenmeta"________________[ROWS:     0]
+TABLE "wp_woocommerce_payment_tokens"___________________[ROWS:     0]
+TABLE "wp_woocommerce_sessions"_________________________[ROWS:     0]
+TABLE "wp_woocommerce_shipping_zone_locations"__________[ROWS:     0]
+TABLE "wp_woocommerce_shipping_zone_methods"____________[ROWS:     0]
+TABLE "wp_woocommerce_shipping_zones"___________________[ROWS:     0]
+TABLE "wp_woocommerce_tax_rate_locations"_______________[ROWS:     0]
+TABLE "wp_woocommerce_tax_rates"________________________[ROWS:     0]
+TABLE "wp_wow_mwp"______________________________________[ROWS:     1]
+TABLE "wp_wpabstracts_abstracts"________________________[ROWS:     2]
+TABLE "wp_wpabstracts_attachments"______________________[ROWS:     1]
+TABLE "wp_wpabstracts_emailtemplates"___________________[ROWS:     7]
+TABLE "wp_wpabstracts_events"___________________________[ROWS:     1]
+TABLE "wp_wpabstracts_statuses"_________________________[ROWS:     4]
+TABLE "wp_wpabstracts_users"____________________________[ROWS:    17]
+TABLE "wp_wpfm_backup"__________________________________[ROWS:     0]
+TABLE "wp_wpforms_entries"______________________________[ROWS:     8]
+TABLE "wp_wpforms_entry_fields"_________________________[ROWS:    24]
+TABLE "wp_wpforms_entry_meta"___________________________[ROWS:     1]
+TABLE "wp_wpforms_tasks_meta"___________________________[ROWS:    96]
+TABLE "wp_wpmailsmtp_tasks_meta"________________________[ROWS:    94]
+TABLE "wp_wswebinars_chats"_____________________________[ROWS:     3]
+TABLE "wp_wswebinars_questions"_________________________[ROWS:     0]
+TABLE "wp_wswebinars_subscribers"_______________________[ROWS:     1]
+TABLE "wp_wt_iew_action_history"________________________[ROWS:     4]
+TABLE "wp_wt_iew_cron"__________________________________[ROWS:     0]
+TABLE "wp_wt_iew_ftp"___________________________________[ROWS:     0]
+TABLE "wp_wt_iew_mapping_template"______________________[ROWS:     1]
+TABLE "wp_yasr_log"_____________________________________[ROWS:     0]
+TABLE "wp_yasr_log_multi_set"___________________________[ROWS:     0]
+TABLE "wp_yasr_multi_set"_______________________________[ROWS:     0]
+TABLE "wp_yasr_multi_set_fields"________________________[ROWS:     0]
+TABLE "wp_ycd_subscribers"______________________________[ROWS:     0]
+TABLE "wp_yoast_indexable"______________________________[ROWS:   601]
+TABLE "wp_yoast_indexable_hierarchy"____________________[ROWS:    41]
+TABLE "wp_yoast_migrations"_____________________________[ROWS:    18]
+TABLE "wp_yoast_primary_term"___________________________[ROWS:    15]
+TABLE "wp_yoast_seo_links"______________________________[ROWS:   151]
+
+DATABASE CACHE/TRANSITIENT [ROWS:    73]
+
+INSERT DATA RUNTIME: 8.0787 sec.
+STEP-2 COMPLETE @ 03:47:51 - RUNTIME: 8.0787 sec.
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+
+-------------------------
+AJAX ACTION [webupdate] START
+
+====================================
+SET SEARCH AND REPLACE LIST
+====================================
+CHUNK LOAD DATA: IS NULL 
+CHUNK ACTION: CURRENT [init][][]
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 03:47:51
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8mb4"
+CHARSET CLIENT:	"utf8mb4"
+********************************************************************************
+OPTIONS:
+blogname______________: "EMAS Virtual School"
+url_old_______________: "https://live.emas-online.org"
+url_new_______________: "https://live.tele-medicine.live"
+siteurl_______________: "https://live.tele-medicine.live"
+path_new______________: "/home/live.tele-medicine.live/public_html"
+path_old______________: "/home/live/public_html"
+replace_mode__________: "legacy"
+empty_schedule_storage: true
+mode_chunking_________: 2
+wp_username___________: ""
+wp_mail_______________: ""
+wp_nickname___________: ""
+wp_first_name_________: ""
+wp_last_name__________: ""
+cross_search__________: true
+postguid______________: false
+fullsearch____________: false
+replaceMail___________: false
+maxSerializeStrlen____: 4000000
+auth_keys_and_salts___: false
+mu_replace____________: Array
+(
+)
+
+DISALLOW_FILE_EDIT____: [value = ], [inWpConfig = ]
+DISALLOW_FILE_MODS____: [value = ], [inWpConfig = ]
+AUTOSAVE_INTERVAL_____: [value = 60], [inWpConfig = ]
+WP_POST_REVISIONS_____: [value = 9223372036854775807], [inWpConfig = ]
+FORCE_SSL_ADMIN_______: [value = 1], [inWpConfig = ]
+WP_AUTO_UPDATE_CORE___: [value = false], [inWpConfig = ]
+WP_CACHE______________: [value = 1], [inWpConfig = 1]
+WPCACHEHOME___________: [value = ], [inWpConfig = ]
+WP_DEBUG______________: [value = ], [inWpConfig = 1]
+WP_DEBUG_LOG__________: [value = ], [inWpConfig = ]
+WP_DEBUG_DISPLAY______: [value = 1], [inWpConfig = ]
+WP_DISABLE_FATAL_ERROR_HANDLER: [value = ], [inWpConfig = ]
+SCRIPT_DEBUG__________: [value = ], [inWpConfig = ]
+CONCATENATE_SCRIPTS___: [value = ], [inWpConfig = ]
+SAVEQUERIES___________: [value = ], [inWpConfig = ]
+ALTERNATE_WP_CRON_____: [value = ], [inWpConfig = ]
+DISABLE_WP_CRON_______: [value = ], [inWpConfig = ]
+WP_CRON_LOCK_TIMEOUT__: [value = 60], [inWpConfig = ]
+COOKIE_DOMAIN_________: [value = ], [inWpConfig = ]
+WP_MEMORY_LIMIT_______: [value = 40M], [inWpConfig = ]
+WP_MAX_MEMORY_LIMIT___: [value = 256M], [inWpConfig = ]
+WP_TEMP_DIR___________: [value = ], [inWpConfig = ]
+********************************************************************************
+
+********************************************************************************
+CHUNK PARAMS:
+maxIteration__________: 0
+timeOut_______________: 5000
+throttling____________: 2
+rowsPerPage___________: 1000
+********************************************************************************
+
+
+EVALUATE TABLE: "wp_actionscheduler_actions"______________________[ROWS:    79][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_actionscheduler_actions][0]
+
+EVALUATE TABLE: "wp_actionscheduler_claims"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_actionscheduler_groups"_______________________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_actionscheduler_groups][0]
+
+EVALUATE TABLE: "wp_actionscheduler_logs"_________________________[ROWS:   233][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_actionscheduler_logs][0]
+
+EVALUATE TABLE: "wp_aiowps_events"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_aiowps_failed_logins"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_aiowps_global_meta"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_aiowps_login_activity"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_aiowps_login_lockdown"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_aiowps_permanent_block"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_appointments"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_categories"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_coupons"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_coupons_to_events"_____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_coupons_to_services"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_custom_fields"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_custom_fields_events"__________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_custom_fields_options"_________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_custom_fields_services"________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_customer_bookings"_____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_customer_bookings_to_events_periods"___[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_customer_bookings_to_extras"___________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_events"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_events_periods"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_events_tags"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_events_to_providers"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_extras"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_galleries"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_locations"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_locations_views"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_notifications"_________________________[ROWS:    52][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_amelia_notifications][0]
+
+EVALUATE TABLE: "wp_amelia_notifications_log"_____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_notifications_sms_history"_____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_payments"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_providers_to_daysoff"__________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_providers_to_events"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_providers_to_google_calendar"__________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_providers_to_locations"________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_providers_to_periods"__________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_providers_to_periods_services"_________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_providers_to_services"_________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_providers_to_specialdays"______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_providers_to_specialdays_periods"______[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_providers_to_specialdays_periods_services"[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_providers_to_timeouts"_________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_providers_to_weekdays"_________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_providers_views"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_services"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_services_views"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_amelia_users"_________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_commentmeta"__________________________________[ROWS:     6][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_commentmeta][0]
+
+EVALUATE TABLE: "wp_comments"_____________________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_comments][0]
+
+EVALUATE TABLE: "wp_duplicator_packages"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_duplicator_pro_entities"______________________[ROWS:     5][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_duplicator_pro_entities][0]
+
+EVALUATE TABLE: "wp_duplicator_pro_packages"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_esp_answer"___________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_esp_attendee_meta"____________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_esp_attendee_meta][0]
+
+EVALUATE TABLE: "wp_esp_checkin"__________________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_esp_checkin][0]
+
+EVALUATE TABLE: "wp_esp_country"__________________________________[ROWS:   250][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_esp_country][0]
+
+EVALUATE TABLE: "wp_esp_currency"_________________________________[ROWS:   153][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_esp_currency][0]
+
+EVALUATE TABLE: "wp_esp_currency_payment_method"__________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_esp_datetime"_________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_esp_datetime][0]
+
+EVALUATE TABLE: "wp_esp_datetime_ticket"__________________________[ROWS:     7][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_esp_datetime_ticket][0]
+
+EVALUATE TABLE: "wp_esp_event_message_template"___________________[ROWS:    13][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_esp_event_message_template][0]
+
+EVALUATE TABLE: "wp_esp_event_meta"_______________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_esp_event_meta][0]
+
+EVALUATE TABLE: "wp_esp_event_question_group"_____________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_esp_event_question_group][0]
+
+EVALUATE TABLE: "wp_esp_event_venue"______________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_esp_event_venue][0]
+
+EVALUATE TABLE: "wp_esp_extra_join"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_esp_extra_meta"_______________________________[ROWS:   216][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_esp_extra_meta][0]
+
+EVALUATE TABLE: "wp_esp_line_item"________________________________[ROWS:    62][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_esp_line_item][0]
+
+EVALUATE TABLE: "wp_esp_log"______________________________________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_esp_log][0]
+
+EVALUATE TABLE: "wp_esp_message"__________________________________[ROWS:    29][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_esp_message][0]
+
+EVALUATE TABLE: "wp_esp_message_template"_________________________[ROWS:   139][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_esp_message_template][0]
+
+EVALUATE TABLE: "wp_esp_message_template_group"___________________[ROWS:    15][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_esp_message_template_group][0]
+
+EVALUATE TABLE: "wp_esp_payment"__________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_esp_payment][0]
+
+EVALUATE TABLE: "wp_esp_payment_method"___________________________[ROWS:    10][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_esp_payment_method][0]
+
+EVALUATE TABLE: "wp_esp_price"____________________________________[ROWS:    10][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_esp_price][0]
+
+EVALUATE TABLE: "wp_esp_price_type"_______________________________[ROWS:     7][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_esp_price_type][0]
+
+EVALUATE TABLE: "wp_esp_promotion"________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_esp_promotion][0]
+
+EVALUATE TABLE: "wp_esp_promotion_object"_________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_esp_promotion_object][0]
+
+EVALUATE TABLE: "wp_esp_question"_________________________________[ROWS:    10][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_esp_question][0]
+
+EVALUATE TABLE: "wp_esp_question_group"___________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_esp_question_group][0]
+
+EVALUATE TABLE: "wp_esp_question_group_question"__________________[ROWS:    10][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_esp_question_group_question][0]
+
+EVALUATE TABLE: "wp_esp_question_option"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_esp_registration"_____________________________[ROWS:    10][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_esp_registration][0]
+
+EVALUATE TABLE: "wp_esp_registration_payment"_____________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_esp_registration_payment][0]
+
+EVALUATE TABLE: "wp_esp_state"____________________________________[ROWS:    85][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_esp_state][0]
+
+EVALUATE TABLE: "wp_esp_status"___________________________________[ROWS:    38][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_esp_status][0]
+
+EVALUATE TABLE: "wp_esp_ticket"___________________________________[ROWS:     8][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_esp_ticket][0]
+
+EVALUATE TABLE: "wp_esp_ticket_price"_____________________________[ROWS:     8][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_esp_ticket_price][0]
+
+EVALUATE TABLE: "wp_esp_ticket_template"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_esp_transaction"______________________________[ROWS:    10][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_esp_transaction][0]
+
+EVALUATE TABLE: "wp_esp_venue_meta"_______________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_esp_venue_meta][0]
+
+EVALUATE TABLE: "wp_expm_hiiden_content"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_expm_maker"___________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_expm_maker][0]
+
+EVALUATE TABLE: "wp_expm_maker_pages"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_fa_user_logins"_______________________________[ROWS:   826][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_fa_user_logins][0]
+
+EVALUATE TABLE: "wp_ff_scheduled_actions"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_fluentform_draft_submissions"_________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_fluentform_entry_details"_____________________[ROWS:    37][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_fluentform_entry_details][0]
+
+EVALUATE TABLE: "wp_fluentform_form_analytics"____________________[ROWS:  6233][PG:   7][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_fluentform_form_analytics][0]
+	CHUNK ACTION: CURRENT [search_replace][wp_fluentform_form_analytics][1]
+	CHUNK ACTION: CURRENT [search_replace][wp_fluentform_form_analytics][2]
+	CHUNK ACTION: CURRENT [search_replace][wp_fluentform_form_analytics][3]
+	CHUNK ACTION: CURRENT [search_replace][wp_fluentform_form_analytics][4]
+	CHUNK ACTION: CURRENT [search_replace][wp_fluentform_form_analytics][5]
+	CHUNK ACTION: CURRENT [search_replace][wp_fluentform_form_analytics][6]
+
+EVALUATE TABLE: "wp_fluentform_form_meta"_________________________[ROWS:    33][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_fluentform_form_meta][0]
+
+EVALUATE TABLE: "wp_fluentform_forms"_____________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_fluentform_forms][0]
+
+EVALUATE TABLE: "wp_fluentform_logs"______________________________[ROWS:    27][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_fluentform_logs][0]
+
+EVALUATE TABLE: "wp_fluentform_order_items"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_fluentform_submission_meta"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_fluentform_submissions"_______________________[ROWS:     6][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_fluentform_submissions][0]
+
+EVALUATE TABLE: "wp_fluentform_subscriptions"_____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_fluentform_transactions"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_give_commentmeta"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_give_comments"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_give_donationmeta"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_give_donormeta"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_give_donors"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_give_formmeta"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_give_logmeta"_________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_give_logs"____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_give_sequential_ordering"_____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_give_sessions"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_layerslider"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_layerslider_revisions"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_lbg_vp1_html5_players"________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_lbg_vp1_html5_players][0]
+
+EVALUATE TABLE: "wp_lbg_vp1_html5_videosettings"__________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_lbg_vp1_html5_videosettings][0]
+
+EVALUATE TABLE: "wp_learn_espresso"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_learndash_pro_quiz_category"__________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_learndash_pro_quiz_form"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_learndash_pro_quiz_lock"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_learndash_pro_quiz_master"____________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_learndash_pro_quiz_master][0]
+
+EVALUATE TABLE: "wp_learndash_pro_quiz_prerequisite"______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_learndash_pro_quiz_question"__________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_learndash_pro_quiz_question][0]
+
+EVALUATE TABLE: "wp_learndash_pro_quiz_statistic"_________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_learndash_pro_quiz_statistic_ref"_____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_learndash_pro_quiz_template"__________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_learndash_pro_quiz_toplist"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_learndash_user_activity"______________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_learndash_user_activity][0]
+
+EVALUATE TABLE: "wp_learndash_user_activity_meta"_________________[ROWS:     5][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_learndash_user_activity_meta][0]
+
+EVALUATE TABLE: "wp_links"________________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_login_redirects"______________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_login_redirects][0]
+
+EVALUATE TABLE: "wp_mec_dates"____________________________________[ROWS: 12856][PG:  13][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_mec_dates][0]
+	CHUNK ACTION: CURRENT [search_replace][wp_mec_dates][1]
+	CHUNK ACTION: CURRENT [search_replace][wp_mec_dates][2]
+	CHUNK ACTION: CURRENT [search_replace][wp_mec_dates][3]
+	CHUNK ACTION: CURRENT [search_replace][wp_mec_dates][4]
+	CHUNK ACTION: CURRENT [search_replace][wp_mec_dates][5]
+	CHUNK ACTION: CURRENT [search_replace][wp_mec_dates][6]
+	CHUNK ACTION: CURRENT [search_replace][wp_mec_dates][7]
+	CHUNK ACTION: CURRENT [search_replace][wp_mec_dates][8]
+	CHUNK ACTION: CURRENT [search_replace][wp_mec_dates][9]
+	CHUNK ACTION: CURRENT [search_replace][wp_mec_dates][10]
+	CHUNK ACTION: CURRENT [search_replace][wp_mec_dates][11]
+	CHUNK ACTION: CURRENT [search_replace][wp_mec_dates][12]
+
+EVALUATE TABLE: "wp_mec_events"___________________________________[ROWS:     5][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_mec_events][0]
+
+EVALUATE TABLE: "wp_mphb_sync_logs"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mphb_sync_queue"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mphb_sync_stats"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mphb_sync_urls"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mrp_custom_fields"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_mrp_rating_form"______________________________[ROWS:     6][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_mrp_rating_form][0]
+	
+STEP-3 CHUNK STOP @ 03:47:56 - RUNTIME: 5.0049 sec. 
+
+
+	AJAX ACTION [webupdate] SUCCESS
+	-------------------------
+
+
+-------------------------
+AJAX ACTION [webupdate] START
+
+EVALUATE TABLE: "wp_mrp_rating_form_item"_________________________[ROWS:    16][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_mrp_rating_form_item][0]
+
+EVALUATE TABLE: "wp_mrp_rating_item"______________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_mrp_rating_item][0]
+
+EVALUATE TABLE: "wp_mrp_rating_item_entry"________________________[ROWS:     7][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_mrp_rating_item_entry][0]
+
+EVALUATE TABLE: "wp_mrp_rating_item_entry_value"__________________[ROWS:     7][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_mrp_rating_item_entry_value][0]
+
+EVALUATE TABLE: "wp_mrp_rating_result"____________________________[ROWS:    23][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_mrp_rating_result][0]
+
+EVALUATE TABLE: "wp_ninja_table_items"____________________________[ROWS:    84][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_ninja_table_items][0]
+
+EVALUATE TABLE: "wp_notification_logs"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_onclick_show_popup"___________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_onclick_show_popup][0]
+
+EVALUATE TABLE: "wp_options"______________________________________[ROWS:  1263][PG:   2][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_options][0]
+	CHUNK ACTION: CURRENT [search_replace][wp_options][1]
+
+EVALUATE TABLE: "wp_postmeta"_____________________________________[ROWS: 10367][PG:  11][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][0]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][1]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][2]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][3]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][4]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][5]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][6]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][7]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][8]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][9]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][10]
+
+EVALUATE TABLE: "wp_posts"________________________________________[ROWS:  1007][PG:   2][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_posts][0]
+	CHUNK ACTION: CURRENT [search_replace][wp_posts][1]
+
+EVALUATE TABLE: "wp_pps_countries"________________________________[ROWS:   240][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_pps_countries][0]
+
+EVALUATE TABLE: "wp_pps_popup"____________________________________[ROWS:    48][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_pps_popup][0]
+
+EVALUATE TABLE: "wp_pps_popup_show_categories"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_css"________________________________[ROWS:   109][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_revslider_css][0]
+
+EVALUATE TABLE: "wp_revslider_css_bkp"____________________________[ROWS:    47][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_revslider_css_bkp][0]
+
+EVALUATE TABLE: "wp_revslider_layer_animations"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_layer_animations_bkp"_______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_navigations"________________________[ROWS:     6][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_revslider_navigations][0]
+
+EVALUATE TABLE: "wp_revslider_navigations_bkp"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_sliders"____________________________[ROWS:    33][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_revslider_sliders][0]
+
+EVALUATE TABLE: "wp_revslider_sliders_bkp"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_slides"_____________________________[ROWS:    38][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_revslider_slides][0]
+
+EVALUATE TABLE: "wp_revslider_slides_bkp"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_revslider_static_slides"______________________[ROWS:    33][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_revslider_static_slides][0]
+
+EVALUATE TABLE: "wp_revslider_static_slides_bkp"__________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_statistics_exclusions"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_statistics_historical"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_statistics_pages"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_statistics_search"____________________________[ROWS:    17][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_statistics_search][0]
+
+EVALUATE TABLE: "wp_statistics_useronline"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_statistics_visit"_____________________________[ROWS:    28][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_statistics_visit][0]
+
+EVALUATE TABLE: "wp_statistics_visitor"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_term_relationships"___________________________[ROWS:   142][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_term_relationships][0]
+
+EVALUATE TABLE: "wp_term_taxonomy"________________________________[ROWS:    27][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_term_taxonomy][0]
+
+EVALUATE TABLE: "wp_termmeta"_____________________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_termmeta][0]
+
+EVALUATE TABLE: "wp_terms"________________________________________[ROWS:    27][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_terms][0]
+
+EVALUATE TABLE: "wp_tm_taskmeta"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_tm_tasks"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_uji_counter"__________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_uji_counter][0]
+
+EVALUATE TABLE: "wp_usermeta"_____________________________________[ROWS:  3132][PG:   4][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_usermeta][0]
+	CHUNK ACTION: CURRENT [search_replace][wp_usermeta][1]
+	CHUNK ACTION: CURRENT [search_replace][wp_usermeta][2]
+	CHUNK ACTION: CURRENT [search_replace][wp_usermeta][3]
+
+EVALUATE TABLE: "wp_users"________________________________________[ROWS:   157][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_users][0]
+
+EVALUATE TABLE: "wp_wc_admin_note_actions"________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_wc_admin_note_actions][0]
+
+EVALUATE TABLE: "wp_wc_admin_notes"_______________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_wc_admin_notes][0]
+
+EVALUATE TABLE: "wp_wc_category_lookup"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_customer_lookup"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_download_log"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_coupon_lookup"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_product_lookup"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_stats"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_order_tax_lookup"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_product_meta_lookup"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wc_tax_rate_classes"__________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_wc_tax_rate_classes][0]
+
+EVALUATE TABLE: "wp_wc_webhooks"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfblockediplog"_______________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_wfblockediplog][0]
+
+EVALUATE TABLE: "wp_wfblocks7"____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfconfig"_____________________________________[ROWS:   264][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_wfconfig][0]
+
+EVALUATE TABLE: "wp_wfcrawlers"___________________________________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_wfcrawlers][0]
+
+EVALUATE TABLE: "wp_wffilechanges"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wffilemods"___________________________________[ROWS: 25321][PG:  26][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][0]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][1]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][2]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][3]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][4]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][5]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][6]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][7]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][8]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][9]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][10]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][11]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][12]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][13]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][14]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][15]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][16]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][17]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][18]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][19]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][20]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][21]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][22]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][23]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][24]
+	CHUNK ACTION: CURRENT [search_replace][wp_wffilemods][25]
+
+EVALUATE TABLE: "wp_wfhits"_______________________________________[ROWS:   993][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_wfhits][0]
+
+EVALUATE TABLE: "wp_wfhoover"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfissues"_____________________________________[ROWS:    41][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_wfissues][0]
+
+EVALUATE TABLE: "wp_wfknownfilelist"______________________________[ROWS: 25321][PG:  26][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][0]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][1]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][2]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][3]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][4]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][5]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][6]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][7]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][8]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][9]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][10]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][11]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][12]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][13]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][14]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][15]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][16]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][17]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][18]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][19]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][20]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][21]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][22]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][23]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][24]
+	CHUNK ACTION: CURRENT [search_replace][wp_wfknownfilelist][25]
+
+EVALUATE TABLE: "wp_wflivetraffichuman"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wflocs"_______________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_wflocs][0]
+
+EVALUATE TABLE: "wp_wflogins"_____________________________________[ROWS:   949][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_wflogins][0]
+
+EVALUATE TABLE: "wp_wfls_2fa_secrets"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfls_settings"________________________________[ROWS:    19][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_wfls_settings][0]
+
+EVALUATE TABLE: "wp_wfnotifications"______________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_wfnotifications][0]
+
+EVALUATE TABLE: "wp_wfpendingissues"______________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_wfpendingissues][0]
+
+EVALUATE TABLE: "wp_wfreversecache"_______________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_wfreversecache][0]
+
+EVALUATE TABLE: "wp_wfsnipcache"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wfstatus"_____________________________________[ROWS:   943][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_wfstatus][0]
+
+EVALUATE TABLE: "wp_wftrafficrates"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_api_keys"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_attribute_taxonomies"_____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_downloadable_product_permissions"_[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_log"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_order_itemmeta"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_order_items"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_payment_tokenmeta"________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_payment_tokens"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_sessions"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_shipping_zone_locations"__________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_shipping_zone_methods"____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_shipping_zones"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_tax_rate_locations"_______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_woocommerce_tax_rates"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wow_mwp"______________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_wow_mwp][0]
+
+EVALUATE TABLE: "wp_wpabstracts_abstracts"________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_wpabstracts_abstracts][0]
+
+EVALUATE TABLE: "wp_wpabstracts_attachments"______________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_wpabstracts_attachments][0]
+
+EVALUATE TABLE: "wp_wpabstracts_emailtemplates"___________________[ROWS:     7][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_wpabstracts_emailtemplates][0]
+
+EVALUATE TABLE: "wp_wpabstracts_events"___________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_wpabstracts_events][0]
+
+EVALUATE TABLE: "wp_wpabstracts_statuses"_________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_wpabstracts_statuses][0]
+
+EVALUATE TABLE: "wp_wpabstracts_users"____________________________[ROWS:    17][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_wpabstracts_users][0]
+
+EVALUATE TABLE: "wp_wpfm_backup"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wpforms_entries"______________________________[ROWS:     8][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_wpforms_entries][0]
+
+EVALUATE TABLE: "wp_wpforms_entry_fields"_________________________[ROWS:    24][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_wpforms_entry_fields][0]
+
+EVALUATE TABLE: "wp_wpforms_entry_meta"___________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_wpforms_entry_meta][0]
+
+EVALUATE TABLE: "wp_wpforms_tasks_meta"___________________________[ROWS:    96][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_wpforms_tasks_meta][0]
+
+EVALUATE TABLE: "wp_wpmailsmtp_tasks_meta"________________________[ROWS:    94][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_wpmailsmtp_tasks_meta][0]
+
+EVALUATE TABLE: "wp_wswebinars_chats"_____________________________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_wswebinars_chats][0]
+
+EVALUATE TABLE: "wp_wswebinars_questions"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wswebinars_subscribers"_______________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_wswebinars_subscribers][0]
+
+EVALUATE TABLE: "wp_wt_iew_action_history"________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_wt_iew_action_history][0]
+
+EVALUATE TABLE: "wp_wt_iew_cron"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wt_iew_ftp"___________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wt_iew_mapping_template"______________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_wt_iew_mapping_template][0]
+
+EVALUATE TABLE: "wp_yasr_log"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_yasr_log_multi_set"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_yasr_multi_set"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_yasr_multi_set_fields"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_ycd_subscribers"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_yoast_indexable"______________________________[ROWS:   601][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_yoast_indexable][0]
+
+EVALUATE TABLE: "wp_yoast_indexable_hierarchy"____________________[ROWS:    41][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_yoast_indexable_hierarchy][0]
+
+EVALUATE TABLE: "wp_yoast_migrations"_____________________________[ROWS:    18][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_yoast_migrations][0]
+
+EVALUATE TABLE: "wp_yoast_primary_term"___________________________[ROWS:    15][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_yoast_primary_term][0]
+
+EVALUATE TABLE: "wp_yoast_seo_links"______________________________[ROWS:   151][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/live/public_html" ==========================> "/home/live.tele-medicine.live/public_html"
+	SEARCH[urlnd]  2:"https://live.emas-online.org" ====================> "https://live.tele-medicine.live"
+	CHUNK ACTION: CURRENT [search_replace][wp_yoast_seo_links][0]
+	
+STEP-3 CHUNK STOP @ 03:48:01 - RUNTIME: 5.0393 sec. 
+
+
+	AJAX ACTION [webupdate] SUCCESS
+	-------------------------
+
+
+-------------------------
+AJAX ACTION [webupdate] START
+--------------------------------------
+SCANNED:	Tables:265 	|	 Rows:93368 	|	 Cells:605234 
+UPDATED:	Tables:22 	|	 Rows:7713 	|	 Cells:8967 
+ERRORS:		0 
+RUNTIME:	10.072700 sec
+CHUNK ACTION: CURRENT [rem_maintenance][][]
+
+====================================
+REMOVE MAINTENANCE MODE
+====================================
+MAINTENANCE MODE DISABLE
+CHUNK ACTION: CURRENT [rem_licenze_key][][]
+
+====================================
+REMOVE LICENSE KEY
+====================================
+CHUNK ACTION: CURRENT [config_update][][]
+SET CONFIG FILES
+Retained original entry wpconfig target:/home/live.tele-medicine.live/public_html/wp-config.php
+New htaccess file created:/home/live.tele-medicine.live/public_html/.htaccess
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE ABSPATH "dirname(__FILE__) . '/'"
+	UPDATE DB_NAME ""live.telemed""
+	UPDATE DB_USER "** OBSCURED **"
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	UPDATE DB_CHARSET "utf8mb4"
+	UPDATE DB_COLLATE ""
+	WP CONFIG UPDATE WP_CACHE true
+	WP CONFIG UPDATE WP_DEBUG false
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE
+====================================
+
+WEB SERVER CONFIGURATION FILE UPDATED:
+Installer Host Htaccess path: 
+- Preparing .htaccess file with basic setup.
+HTACCESS FILE - Successfully updated the .htaccess file setting.
+
+====================================
+INDEX.PHP UPDATE
+====================================
+INDEX.PHP updated with new blog header "dirname(__FILE__) . '/wp-blog-header.php'"
+
+CHUNK ACTION: CURRENT [gen_update][][]
+
+====================================
+GENERAL UPDATES
+====================================
+
+====================================
+MANAGE PLUGINS
+====================================
+Activated plugins listed here will be deactivated: Array
+(
+)
+
+CHUNK ACTION: CURRENT [gen_clean][][]
+
+====================================
+GENERAL CLEANUP
+====================================
+- Removed '0' schedule storage items
+CHUNK ACTION: CURRENT [create_admin][][]
+
+====================================
+RESET USERS PASSWORD
+====================================
+CHUNK ACTION: CURRENT [notice_test][][]
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+CHUNK ACTION: CURRENT [cleanup_tmp_files][][]
+
+====================================
+CLEANUP TMP FILES
+====================================
+CHUNK ACTION: CURRENT [set_files_perms][][]
+
+====================================
+SET PARAMS PERMISSION
+====================================
+
+*** SET FOLDER PERMISSION AFTER EXTRACTION
+[PHP ERR][WARN] MSG:chmod(): Operation not permitted [CODE:2|FILE:/home/live.tele-medicine.live/public_html/dup-installer/lib/snaplib/class.snaplib.u.io.php|LINE:655]
+CHMOD FAIL: /home/live.tele-medicine.live/public_html/.well-known/pki-validation PERMS: 0755
+[PHP ERR][WARN] MSG:chmod(): Operation not permitted [CODE:2|FILE:/home/live.tele-medicine.live/public_html/dup-installer/lib/snaplib/class.snaplib.u.io.php|LINE:655]
+CHMOD FAIL: /home/live.tele-medicine.live/public_html/.well-known PERMS: 0755
+SET FOLDER PERMISSION DONE
+CHUNK ACTION: CURRENT [final_report][][]
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 03:48:01 - RUNTIME: 0.2252 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+
+-------------------------
+AJAX ACTION [finalpre] START
+AJAX ACTION [finalpre] SUCCESS
+-------------------------
+
+
+-------------------------
+AJAX ACTION [finalafter] START
+AJAX ACTION [finalafter] SUCCESS
+-------------------------
+
+====================================
+NEXT STEP NOTICES
+====================================
+-----------------------
+[NOTICE] Plugin The7 WPBakery Page Builder disabled by default
+	SECTIONS: plugins
+	LONG MSG: This plugin is deactivated by default automatically. You must reactivate from the WordPress admin panel after completing the installation or from the plugins tab. Your site's frontend will render properly after reactivating the plugin.
+
+-----------------------
+[NOTICE] Plugin Popup Maker disabled by default
+	SECTIONS: plugins
+	LONG MSG: This plugin is deactivated by default automatically due to issues that one may encounter when migrating. You must reactivate from the WordPress admin panel after completing the installation or from the plugins tab. Your site's frontend will render properly after reactivating the plugin.
+
+====================================
+LOG-TIME[/home/live.tele-medicine.live/public_html/dup-installer/ctrls/ctrl.base.php:236][DELTA:   0.00963]  MESSAGE:END RENDER PAGE

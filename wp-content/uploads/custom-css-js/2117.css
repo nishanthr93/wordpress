@@ -1,0 +1,40 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.wpcf7 
+{
+ width:100%;
+ 
+}
+
+
+.wpcf7 input[type="email"]
+{
+  height:40;
+ width:220px;
+margin-left:-100px;
+ margin-top: 10px;
+ float: left;
+ content: 'placeholder text';
+}
+.wpcf7 input[type="button"]
+{
+  height: 10px;
+ width:500px;
+ 
+ margin-top: 10px;
+  margin-right:-600px;
+ float: left;
+}
+.vimeoDisplay{display:none;}
+.YtbDsply{display:none;}
+.openPDFLight{display:none;}
+#pum-2508 {
+    z-index: 99 !important;
+}
+#planfyInlineWidget12 iframe.PlanfyWidget-embedded.isActive {
+    min-height: 270px;
+}
+
+#pum-2581{z-index:500;}
+.lity-iframe-container{height:657px;}</style>
+<!-- end Simple Custom CSS and JS -->

@@ -1,0 +1,585 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iThemeland News Ticker for Elementor v1.0\n"
+"POT-Creation-Date: 2020-04-01 16:13+0430\n"
+"PO-Revision-Date: 2020-04-01 16:13+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_html__\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: .\n"
+
+#: ../includes/layouts/news-ticker-horizontal/build_query_output.php:157
+#: ../includes/query.php:146
+msgid "ago"
+msgstr ""
+
+#: ../includes/layouts/news-ticker-horizontal/rss.php:102
+#: ../includes/layouts/news-ticker-horizontal/rss_output.php:51
+msgid "No items"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:29
+msgid "iT News Ticker"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:61
+msgid "Ticker Source"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:68
+msgid "Source"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:71
+msgid "Build Query"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:72
+msgid "RSS & Feed"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:73
+msgid "Manual Text"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:84
+msgid "Post Type"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:87
+msgid "Posts"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:88
+msgid "Pages"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:101
+msgid "Post Number"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:112
+msgid "Post Offset"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:124
+msgid "Include Category"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:139
+msgid "Exclude Category"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:154
+msgid "Include Tag"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:169
+msgid "Exclude Tag"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:185
+msgid "Include Post ID"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:200
+msgid "Exclude Post ID"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:216
+msgid "Include Page ID"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:231
+msgid "Exclude Page ID"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:250
+msgid "Include Tax"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:265
+msgid "Exclude Tax"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:281
+msgid "Post Author"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:296
+msgid "Page Author"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:311
+msgid "Sort By"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:315
+msgid "Popular Order"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:317
+msgid "Latest Post"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:318
+msgid "Oldest Post"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:319
+msgid "Alphabet"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:320
+msgid "ID"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:321
+msgid "Random Post"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:322
+msgid "Random Post(7 days)"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:323
+msgid "Random Post(30 days)"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:324
+msgid "Most Comment"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:328
+msgid "Woocommerce Order"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:330
+msgid "Price"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:331
+msgid "Regular Price"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:332
+msgid "Sale Price"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:333
+msgid "SKU"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:334
+msgid "Stock Quantity"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:348
+msgid "Order"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:351
+msgid "ASC"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:352
+msgid "DESC"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:367
+msgid "RSS/Feed Title"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:375
+msgid "RSS/Feed URL"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:385
+msgid "RSS/Feed Image"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:387
+msgid "Set image for each RSS Source"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:396
+msgid "RSS/Feed Sources"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:401
+msgid "Rss Text"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:416
+msgid "Title"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:424
+msgid "URL"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:434
+msgid "Image"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:436
+msgid "Set image for each manual Source"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:445
+msgid "Manual Sources"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:450
+msgid "Text"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:466
+msgid "Ticker Setting"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:474
+msgid "Template"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:481
+msgid "Choose Template"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:485
+msgid "Template 1"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:486
+msgid "Template 2"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:487
+msgid "Template 3"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:488
+msgid "Template 4"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:489
+msgid "Template 5"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:490
+msgid "Template 6"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:491
+msgid "Template 7"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:492
+msgid "Template 8"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:493
+msgid "Template 9"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:494
+msgid "Template 10"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:495
+msgid "Template 11"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:496
+msgid "Template 12"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:503
+msgid "Movment Option"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:510
+msgid "Ticker Move Effect"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:514
+msgid "Marquee"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:515
+msgid "Slide"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:516
+msgid "Fade"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:523
+msgid "Show Navigation"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:534
+msgid "Autoplay Speed"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:545
+msgid "Pause Time"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:556
+msgid "Marquee Direction"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:560
+msgid "Left"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:561
+msgid "Right"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:571
+msgid "Scroll Amount"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:583
+msgid "General Settings"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:590
+msgid "Enable Interval"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:601
+msgid "Refresh Time"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:615
+msgid "Ticker Position"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:618
+msgid "Current Place"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:619
+msgid "Fix Bottom"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:627
+msgid "Offset"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:645
+msgid "Heading Text [Bold]"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:655
+msgid "Heading Text [Thin]"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:665
+msgid "Show Icon In Heading"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:673
+msgid "Heading Icon"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:687
+msgid "Icon Spacing"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:702
+msgid "Show Logo"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:710
+#: ../includes/widgets/news-ticker-horizontal.php:852
+msgid "Logo"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:712
+msgid "Upload your site/company logo"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:725
+msgid "Open Links On New Tab"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:735
+msgid "Show Time Area"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:744
+msgid "Show Post Image"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:753
+msgid "Image Style"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:756
+msgid "Round"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:757
+msgid "square"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:768
+msgid "Default Image"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:770
+msgid "Default image when tick no any image"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:782
+msgid "Show Date"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:793
+msgid "Data Format"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:796
+msgid "WP Default"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:797
+msgid "Relative"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:798
+msgid "Custom"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:811
+msgid "Custom Data Format"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:822
+msgid "Show Sharing"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:831
+msgid "Social Shares"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:835
+msgid "Facebook"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:836
+msgid "Twitter"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:837
+msgid "Google"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:862
+msgid "Border"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:871
+msgid "Logo Background Color"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:893
+msgid "Clock Area Style"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:903
+#: ../includes/widgets/news-ticker-horizontal.php:953
+#: ../includes/widgets/news-ticker-horizontal.php:1051
+msgid "Background Color"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:919
+#: ../includes/widgets/news-ticker-horizontal.php:969
+#: ../includes/widgets/news-ticker-horizontal.php:1069
+msgid "Text Setting"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:928
+#: ../includes/widgets/news-ticker-horizontal.php:978
+#: ../includes/widgets/news-ticker-horizontal.php:1078
+#: ../includes/widgets/news-ticker-horizontal.php:1105
+msgid "Text Color"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:946
+msgid "Heading Style"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:995
+msgid "Icon Size"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:1009
+msgid "Icon Color"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:1031
+msgid "Ticker Content Style"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:1045
+msgid "Normal"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:1098
+msgid "Hover"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:1127
+msgid "Navigation"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:1138
+msgid "Navigation Background"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:1155
+msgid "Navigation Color"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:1172
+msgid "Custom Css"
+msgstr ""
+
+#: ../includes/widgets/news-ticker-horizontal.php:1181
+msgid "Custom css"
+msgstr ""
+
+#: ../main.php:163
+msgid "IT All In One Puzzle"
+msgstr ""
+
+#: ../main.php:171
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: ../main.php:172 ../main.php:183
+msgid "Block Post Plugin"
+msgstr ""
+
+#: ../main.php:173 ../main.php:184
+msgid "Elementor"
+msgstr ""
+
+#: ../main.php:182
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""

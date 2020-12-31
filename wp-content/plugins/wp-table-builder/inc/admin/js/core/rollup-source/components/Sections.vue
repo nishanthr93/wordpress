@@ -1,0 +1,79 @@
+<template>
+	<div>
+		<div ref="wrapper" class="wptb-settings-sections-wrapper" :class="{ child }">
+			<section-item
+				v-for="(label, item) in getItems"
+				:name="item"
+				:label="label"
+				:key="item"
+				@sectionchange="handleSectionChange"
+				@activeSectionElement="handleActiveSectionElement"
+				:current="innerCurrentSection"
+				:disabled="disabled"
+			></section-item>
+			<active-section-indicator
+				:relative-parent="$refs.wrapper"
+				:active-item="activeSectionElement"
+			></active-section-indicator>
+		</div>
+		<slot></slot>
+	</div>
+</template>
+<script>
+import SectionItem from './SectionItem';
+import ActiveSectionIndicator from './ActiveSectionIndicator';
+
+export default {
+	model: {
+		prop: 'currentSection',
+		event: 'updateSection',
+	},
+	props: {
+		child: {
+			type: Boolean,
+			default: false,
+		},
+		items: null,
+		currentSection: String,
+		disabled: {
+			type: Boolean,
+			default: false,
+		},
+	},
+	components: { SectionItem, ActiveSectionIndicator },
+	data() {
+		return {
+			innerCurrentSection: '',
+			activeSectionElement: null,
+		};
+	},
+	mounted() {
+		this.innerCurrentSection = this.currentSection || this.items[0];
+	},
+	watch: {
+		innerCurrentSection(n) {
+			this.$emit('updateSection', n);
+		},
+	},
+	computed: {
+		getItems() {
+			if (Array.isArray(this.items)) {
+				return this.items.reduce((carry, item) => {
+					// eslint-disable-next-line no-param-reassign
+					carry[item] = item;
+					return carry;
+				}, {});
+			}
+			return this.items;
+		},
+	},
+	methods: {
+		handleSectionChange(val) {
+			this.innerCurrentSection = val;
+		},
+		handleActiveSectionElement(el) {
+			this.activeSectionElement = el;
+		},
+	},
+};
+</script>

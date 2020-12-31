@@ -1,0 +1,998 @@
+/*
+Theme Name: The7
+Theme URI: http://the7.io/
+Author: Dream-Theme
+Author URI: http://dream-theme.com/
+Description: Any design, any layout. No coding required. The7 is the most customisable WordPress theme on the market up to date. Add the power of Visual Composer, The7 Post Types, Ultimate Addons, Slider Revolution, and WooCommerce to the mix, and you'll get the ultimate web-site building toolkit! Theme is translation ready, compatible with WPML, SEO and mobile friendly (certified by Google).
+Version: 9.3.1
+Tested up to: 5.5.1
+Requires PHP: 5.6.20
+Requires at least: 5.3.0
+License: This WordPress theme is comprised of two parts: (1) The PHP code and integrated HTML are licensed under the GPL license as is WordPress itself.  You will find a copy of the license text in the same directory as this text file. Or you can read it here: http://wordpress.org/about/gpl/ (2) All other parts of the theme including, but not limited to the CSS code, images, and design are licensed according to the license purchased. Read about licensing details here: http://themeforest.net/licenses/regular_extended
+License URI: License.txt
+Tags: multipurpose, responsive, retina ready, SEO ready, mobile friendly, iOS, material design, clean, minimal, business, corporate, portfolio, creative, photography, one page site, micro site
+Text Domain: the7mk2
+*/
+
+.wp-caption-text,
+.sticky,
+.gallery-caption,
+.bypostauthor,
+.main-page {}
+
+.lity.lity-opened.lity-iframe .lity-container {
+    max-width: 90% !important;
+}
+
+rs-layer#form_layer {
+    width: 278px !important;
+}
+
+@media only screen and (max-width: 768px) {
+
+	rs-layer-wrap#parent_video_layer, rs-layer-wrap#parent_video_layer iframe {
+	    width: 100vw !important;
+	    height: 57vw !important;
+	}
+
+	rs-layer-wrap#parent_video_layer {
+	    position: initial !important;
+	}
+
+	rs-layer-wrap#parent_form_layer {
+	    position: initial !important;
+	    height: 110vw;
+	    width: 100vw !important;
+	}
+
+	rs-loop-wrap, rs-mask-wrap {
+	    position: relative !important;
+	}
+
+	rs-layer-wrap#parent_form_layer, rs-layer-wrap#parent_form_layer iframe {
+	    width: 100vw !important;
+	    height: calc(90vw + 280px) !important;
+	    overflow-y: scroll;
+	}
+
+	rs-module#rev_slider_24_1, #rev_slider_24_1_wrapper {
+	    height: calc(140vw + 330px) !important;
+	}
+
+	rs-layer#form_layer {
+	    height: auto !important;
+	}
+
+	rs-module#rev_slider_24_1 rs-loader.spinner2 + rs-slides > rs-slide {
+	    display: flex;
+	    flex-direction: column;
+	}
+
+	rs-layer-wrap#parent_form_layer {
+	    order: 2;
+	}
+
+	rs-layer-wrap#parent_video_layer {
+	    order: 1;
+	}
+
+	rs-layer#slider-24-slide-24-layer-6 {
+	    width: 100vw !important;
+	}
+
+}
+
+@media only screen and (min-width: 769px) and (max-width: 1200px) {
+
+	rs-module-wrap#rev_slider_24_1_wrapper, rs-module#rev_slider_24_1 {
+	    height: 40vw !important;
+	    overflow: visible !important;
+	}
+
+	rs-layer-wrap#parent_form_layer {
+	    position: initial !important;
+	}
+
+	rs-layer-wrap#parent_video_layer *, rs-layer-wrap#parent_form_layer * {
+	    position: initial !important;
+	    overflow: visible !important;
+	}
+
+	rs-layer-wrap#parent_video_layer, rs-layer-wrap#parent_form_layer {
+	    position: initial !important;
+	    width: 50% !important;
+	    display: inline-block !important;
+	    vertical-align: top;
+	    overflow: hidden;
+	}
+
+	rs-layer#slider-24-slide-24-layer-6 {
+	    width: 100vw !important;
+	}
+
+	rs-module#rev_slider_24_1 rs-loader.spinner2 + rs-slides > rs-slide {
+	    display: flex;
+	    flex-direction: row;
+	    overflow: visible !important;
+	}
+
+	rs-layer-wrap#parent_form_layer {
+	    order: 2;
+	}
+
+	rs-layer-wrap#parent_video_layer {
+	    order: 1;
+	    margin-top: 40px !important;
+	}
+
+	rs-layer-wrap#parent_form_layer {
+	    margin-top: 40px !important;
+	}
+
+	rs-layer#video_layer, iframe.banner_video {
+	    width: 100% !important;
+	}
+
+	rs-layer#form_layer, iframe.banner_from {
+	    width: 100% !important;
+	}
+
+	iframe.banner_from {
+	    height: 257px !important;
+	    min-height: auto !important;
+	}
+
+	rs-layer-wrap#parent_form_layer, rs-layer#form_layer {
+	    height: auto !important;
+	}
+
+}
+
+
+.meeting_join {
+   transform: none !important;
+   left: auto !important;
+   right: 23px !important;
+   top: 20% !important;
+   width: 23%;
+}
+
+
+@media only screen and (max-width: 992px) {
+.meeting_join {
+   width: 55% !important;
+   transform: none !important;
+   left: 0 !important;
+   right: 0;
+   margin: 10px auto 30px;
+   top: 130px !important;
+   z-index: 999;
+       padding-top: 30px !important;
+    padding-bottom: 30px !important;
+    position: initial !important;
+}
+
+.page-id-3066 #modal-ready .meeting_join {
+display: block !important;
+}
+}
+
+@media only screen and (min-width: 993px) and (max-width: 1300px) {
+.meeting_join {
+   transform: none !important;
+   left: auto !important;
+   right: 20px;
+   margin: 0 auto;
+   width: 47%;
+   top: 20px !important;
+   padding: 30px 20px 30px 20px !important;
+}
+
+.page-id-3066 #modal-ready .meeting_join {
+display: block !important;
+}
+
+}
+
+.meeting_join button.join_meet {
+   padding: 10px 0 10px 0;
+   color: #fff;
+}
+
+
+
+/**** home--login ****/
+
+.row.login--popup--card {
+    background: #fff;
+	padding: 5px;
+    width: 25%;
+    margin: 145px 87px 0px auto;
+    text-align: center;
+	-webkit-box-shadow: 0 3px 1px -2px rgba(0,0,0,.2), 0 2px 2px 0 rgba(0,0,0,.14), 0 1px 5px 0 rgba(0,0,0,.12);
+    box-shadow: 0 3px 1px -2px rgba(0,0,0,.2), 0 2px 2px 0 rgba(0,0,0,.14), 0 1px 5px 0 rgba(0,0,0,.12);
+	display: inline-block;
+	border-radius: 4px;
+}
+
+.not--reg--frgt--pwd, .not--reg--frgt--pwd * {
+    line-height: 1;
+}
+
+.login--img {
+    display: inline-block;
+}
+
+.login--img img {width: 100%;height: auto;}
+
+.login--popup--card input,
+.login--popup--card input:focus,
+.create--pwd--popup--card input,
+.create--pwd--popup--card input:focus {
+    background-color: transparent !important;
+    border-bottom: 2px solid #333;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    outline: none;
+}
+
+.create--pwd--popup--card input {
+    padding-left: 0;
+}
+
+.rm--me {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 22px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.rm--me input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+
+.checkmark {
+  position: absolute;
+  top: -2px;
+  left: 0;
+  height: 13px;
+    width: 13px;
+    background-color: transparent;
+    border: 1.5px solid #333;
+    border-radius: 4px;
+}
+
+
+.rm--me:hover input ~ .checkmark {
+  background-color: transparent;
+}
+
+.chckbx{
+    margin-top: 15px;
+}
+
+.chckbx.accept--chkbx{
+  margin-bottom: 5px;
+}
+
+#terms_err {
+    margin-bottom: 10px;
+}
+
+.pwd--btn {
+    margin: 10px 0;
+    line-height: 1;
+}
+
+
+.rm--me input:checked ~ .checkmark {
+  background-color: transparent;
+}
+
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+.rm--me input:checked ~ .checkmark:after {
+  display: block;
+}
+
+
+.rm--me .checkmark:after {
+  left: 5px;
+    top: 0px;
+    width: 4px;
+    height: 8px;
+    border: solid #333;
+    border-width: 0 2px 2px 0;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.home .page-title,
+.page-template-template-createpassword .page-title,
+.page-template-template-createpassword footer#footer {
+    display: none;
+}
+
+.home #main,
+.page-template-template-createpassword #main {
+    background-image: url(https://live.emas-online.org/wp-content/uploads/2020/12/lobbyinst-1.jpg);
+    background-size: cover;
+    width: 100%;
+    display: inline-block;
+    background-repeat: no-repeat;
+    text-align: right;
+    padding-top: 0;
+    /*background-attachment: fixed; */
+    height: 100vh;    
+    max-width: 100%;
+}
+
+.page-template-template-createpassword #main{
+  text-align: center;
+}
+
+.row.login--popup--card input, .row.login--popup--card label,
+.create--pwd--popup--card label, .create--pwd--popup--card input {
+    width: 80%;
+    text-align: left;
+    display: inline-block;
+	  color: #333;
+    padding-left: 0;
+    line-height: 1;
+    margin-top: 30px;
+}
+
+.chckbx .rm--me {
+    font-size: 16px;
+    color: #333;
+}
+
+.email--accnt {
+    margin-bottom: 0px;
+    position: relative;
+}
+
+.sbmt--btn #submit,
+.create--email--sbmt a {
+    background-color: #00bfa5!important;
+    border-color: #00bfa5!important;
+    width: 95%;
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    -webkit-box-shadow: 0 3px 1px -2px rgba(0,0,0,.2), 0 2px 2px 0 rgba(0,0,0,.14), 0 1px 5px 0 rgba(0,0,0,.12);
+    box-shadow: 0 3px 1px -2px rgba(0,0,0,.2), 0 2px 2px 0 rgba(0,0,0,.14), 0 1px 5px 0 rgba(0,0,0,.12);
+    padding: 5px 16px;
+    border-radius: 4px;
+    line-height: 1;
+    text-align: center;
+    border: 0;
+}
+
+.crt--pwd--lnk,
+.not--reg--lnk,
+.frgt--pwd--lnk{
+    color: #333;
+    text-decoration: none;
+    background: transparent;
+    border: none;
+}
+
+.cr--pwd--btn .crt--pwd--lnk:hover,
+.not--reg--lnk:hover,
+.frgt--pwd--lnk:hover{
+    text-decoration: underline;
+    color: #333;
+}
+
+.not--reg--btn, .frg--accnt--btn {
+    width: 50%;
+    display: inline-block;
+    float: left;
+}
+
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0,0.4);
+  border-radius: 4px;
+  padding-top: 15%;
+}
+
+.modal-content {
+  background-color: #fefefe;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 30%;
+  position: relative;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+  animation-name: animatetop;
+  animation-duration: 0.4s
+}
+
+
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+@keyframes animatetop {
+  from {top: -300px; opacity: 0}
+  to {top: 0; opacity: 1}
+}
+
+#create--pwd--modal h2, #forgot--pwd--modal h2 {
+    font-size: 20px;
+    color: #333;
+    text-align: left;
+    line-height: 1;
+    position: absolute;
+}
+
+.create--email--address {
+    text-align: left;
+}
+
+.create--email--address span, .create--email--address label {
+    width: 100%;
+    display: inline-block;
+}
+
+.create--email--address span {
+    margin: 15px 0;
+    position: relative;
+    padding-left: 25px;
+}
+
+.create--email--address input#create-email,
+#forgot-email {
+    border-bottom: 2px solid #333;
+    width: 100%;
+    padding: 0;
+    height: auto;
+    color: #333;
+    font-size: 18px;
+}
+
+.create--pwd--popup--card {
+    background: #fff;
+    padding: 24px;
+    width: 30%;
+    margin: 14% auto;
+    border-radius: 3px;
+}
+
+.create--pwd--popup--card input {
+    padding-left: 0;
+}
+
+.cancel--lnk {
+    background: transparent;
+    border: 1px solid #333;
+    padding: 5px 10px;
+    border-radius: 3px;
+}
+
+#sve--btn {
+    padding: 5px 15px;
+    border-radius: 3px;
+    background: #00bfa5;
+    border: 1px solid #00bfa5;
+    color: #fff;
+}
+
+#sve--btn:focus,
+button:focus {
+  outline: none;
+}
+
+.page-template-template-createpassword #main:before {
+    content: "";
+    background: #00000052;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+	z-index: -1;
+}
+
+.cancel--btn {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.save--btn{
+	display: inline-block;
+}
+
+.save--btn input, .save--btn input:focus{
+    display: inline-block;
+    background-color: #00bfa5!important;
+    color: #fff;
+    text-decoration: none;
+    -webkit-box-shadow: 0 3px 1px -2px rgba(0,0,0,.2), 0 2px 2px 0 rgba(0,0,0,.14), 0 1px 5px 0 rgba(0,0,0,.12);
+    box-shadow: 0 3px 1px -2px rgba(0,0,0,.2), 0 2px 2px 0 rgba(0,0,0,.14), 0 1px 5px 0 rgba(0,0,0,.12);
+    border-radius: 3px;
+}
+
+.create--pwd--parent {
+    text-align: right;
+    display: inline-block;
+    width: 100%;
+    margin-top: 15px;
+}
+
+.popup-overlay{
+  visibility: hidden;
+  position: absolute;
+  background: #ffffff;
+  border: 3px solid #666666;
+  width: 50%;
+  height: 50%;
+  left: 25%;
+}
+
+.popup-overlay.active{
+  visibility: visible;
+  text-align: center;
+  display: block;
+  background: rgba(0,0,0,0.4);
+  width: 100%;
+  left: 0;
+  height: 100%;
+  position: fixed !important;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+  animation-name: animatetop;
+  animation-duration: 0.4s
+}
+
+.popup-content{
+  visibility: hidden;
+}
+
+.popup-content.active{
+  visibility:visible;
+  display: block;
+}
+
+@keyframes animatetop {
+  from {top: -300px; opacity: 0}
+  to {top: 0; opacity: 1}
+}
+
+.create--email--sbmt a {
+    width: 90%;
+    margin: 0 auto;
+    padding: 10px 15px;
+    margin-top: 15px;
+}
+
+.create--email--sbmt {
+    text-align: center;
+}
+
+.rm--me {
+    padding-left: 23px !important;
+}
+
+#password {
+    padding: 0;
+    height: auto;
+    margin-bottom: 0;
+}
+
+.home header.header-bar,
+.page-template-template-createpassword header.header-bar {
+    display: none !important;
+}
+
+.home.page-template-template-loginpage1-php.page-id-3446.logged-in header.header-bar{
+	display: flex !important;
+}
+
+.home .header-space,
+.page-template-template-createpassword .header-space {
+    height: auto !important;
+    min-height: auto;
+}
+
+.home footer#footer {
+    display: none;
+}
+
+@media screen and (max-width: 767px){
+	
+	.page-template-template-createpassword-php.page-id-3451 #main {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		z-index: 999;
+	}
+	
+  .home.page-template-template-loginpage1-php.page-id-3446.logged-in .row.login--popup--card{
+      margin: 0 !important;
+      height: auto;
+  }
+	
+	.create--pwd--popup--card {
+		width: 80%;
+		margin: 0 auto;		
+	}
+
+  .home.page-template-template-loginpage1-php.page-id-3446.logged-in #main{
+      display: flex !important;
+      justify-content: center;
+      align-items: center;
+  }
+
+  .home #main, .page-template-template-createpassword #main {
+    text-align: center;
+    background-position: center center;
+  }
+
+  .row.login--popup--card {
+    width: 60vw;
+    margin: 60px auto;
+    height: 70vh;
+    overflow: auto;
+  }
+
+  .modal-content {
+    width: 75%;
+    margin-top: 36vw;
+  }
+
+  .home .mobile-header-bar,
+  .page-template-template-createpassword .mobile-header-bar{
+    	display: none !important;
+  }
+}
+
+.home .mobile-header-bar,
+  	.page-template-template-createpassword .mobile-header-bar{
+    	display: none !important;
+  }
+
+@media screen and (min-width: 768px) and (max-width: 1024px){
+	.page-template-template-createpassword-php.page-id-3451 #main {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		z-index: 999;
+	}
+	
+	.create--pwd--popup--card {
+		width: 50%;		
+	}
+	
+  .home.page-template-template-loginpage1-php.page-id-3446.logged-in .row.login--popup--card{
+      margin: 0 !important;
+      height: auto;
+  }
+
+  .home.page-template-template-loginpage1-php.page-id-3446.logged-in #main{
+      display: flex !important;
+      justify-content: center;
+      align-items: center;
+  }
+
+	.row.login--popup--card input, .row.login--popup--card label, .create--pwd--popup--card label, .create--pwd--popup--card input{
+		width: 90%;
+	}
+	.home .mobile-header-bar,
+  	.page-template-template-createpassword .mobile-header-bar{
+    	display: none !important;
+  }
+  .home #main, .page-template-template-createpassword #main {
+    text-align: center;
+    background-position: center center;
+    height: 100vh;
+	  display: flex !important;
+	  justify-content: center;
+	  align-items: center;
+  }
+
+  .row.login--popup--card {
+    width: 70%;
+    margin: 60px auto;
+	height: 500px;
+    overflow: auto;
+  }
+
+  .modal-content {
+    width: 50%;
+    margin-top: 11  vw;
+  }
+}
+
+@media screen and (max-width: 380px){
+  .crt--pwd--lnk, .not--reg--lnk, .frgt--pwd--lnk {
+     font-size: 14px; 
+  }
+}
+
+
+
+@media only screen and (min-width: 567px) and (max-width: 568px){
+	.modal-content {
+	    margin-top: -3vw;
+	}
+}
+
+@media only screen and (min-width: 666px) and (max-width: 667px){
+	.modal-content {
+	    margin-top: -3vw;
+	}
+}
+
+@media only screen and (min-width: 735px) and (max-width: 736px){
+	.modal-content {
+	    margin-top: -3vw;
+	}
+}
+
+.err{
+	 	color: #cc0404 !important;
+    width: 80%;
+    text-align: left;
+    /* display: inline-block; */
+    font-size: 12px;
+    line-height: 1;
+    display: block;
+    padding-left: 28px;
+    margin-top: 5px;
+ 	}
+
+.sbmt--btn input#submit {
+    margin-top: 6px;
+}
+
+ 	.create--pwd--cntnt .err{
+ 		width: 100% !important;
+ 	}
+
+ 	label.eml span {
+	    margin-left: 5px;
+	    color: #cc0404;
+	}
+
+ 	.save--btn #submit {
+    border-color: transparent;
+    line-height: 1;
+    padding: 7px 18px;
+    font-weight: 500;
+    display: inline-block;
+    margin-top: 0;
+		border-bottom: none;
+    width: 100%;
+}
+
+.login--cntnt i.fa.fa-envelope,
+.login--cntnt i.fa.fa-lock {
+    position: absolute;
+    left: 6px;
+    margin-top: 30px;
+}
+
+.pswrd--accnt {
+    position: relative;
+}
+
+
+
+.floatingName {
+    position: absolute;
+    top: -16px;
+    bottom: 0;
+    left: 29px;
+    transition: 0.2s;
+    /*z-index: -1;*/
+    height: 0px;
+}
+
+.email--accnt{
+    position: relative;
+    margin: 10px 0;
+}
+
+.row.login--popup--card input:focus + label,
+.create--email--address input:focus + label {
+    top: 30%;
+    margin-top: -23px;
+}
+
+.create--pwd--cntnt input, .create--pwd--cntnt label {
+    width: 100%;
+}
+
+
+p.response {
+    text-align: center;
+    margin-top: 20px;
+    color: #3c763d;
+    background: #dff0d8;
+    border-radius: 3px;
+    width: 90%;
+    margin: 20px auto;
+    font-size: 15px;
+}
+
+.create--email--address i.fa.fa-lock{
+  position: absolute;
+    left: 0;
+    margin-top: 4px;
+}
+
+.accept--chkbx label.rm--me {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.chckbx label.rm--me {
+    margin: 0;
+}
+
+.chckbx input {
+    margin-top: 0 !important;
+}
+
+@media screen and (min-width: 1025px) and (max-width: 1327px){
+	.login--popup--card {
+	    /*height: 435px;*/
+      height: 380px;
+	    overflow-x: scroll;
+	}
+	
+	.err {
+		font-size: 11px;
+	}
+	
+	.chckbx label.rm--me {
+		font-size: 14px;
+	}
+	
+	.not--reg--frgt--pwd a, 
+	.not--reg--frgt--pwd button,
+	#crt--pwd-btn{
+    	font-size: 14px;
+	}
+}
+
+/*@media screen and (min-width: 1329px) and (max-width: 1503px){
+  .row.login--popup--card {
+     height: 385px; 
+     overflow-x: scroll; 
+  }
+}*/
+
+#pum-2508 #popmake-2508 {
+    margin-top: 109px;
+    margin-left: 0;
+    left: 50% !important;
+    right: 50% !important;
+    transform: translateX(-50%);
+    top: 10px !important;
+}
+
+#pum-2508 button.pum-close.popmake-close,
+#pum-2272 button.pum-close.popmake-close {
+  border-radius: 50% !important;
+  width: 39px !important;
+  height: 39px !important;
+  font-size: 35px !important;
+  font-weight: 600 !important;
+  top: -10px !important;
+  right: -10px !important;
+}
+
+#pum-2508 table tr,
+#pum-2508 .colored_table table.ninja_table_pro.inverted.olive.table thead tr.footable-header {
+    /*background-color: #1d9d8d !important;*/
+    color: #fff !important;
+    font-weight: 600;
+}
+
+#pum-2508 table tr, 
+#pum-2508 table td, 
+#pum-2508 table th {
+    border: 1px solid #fff;
+}
+
+#pum-2508 table tr td:first-child, 
+#pum-2508 table tr:nth-child(2) th {
+    text-align: center !important;
+}
+
+.pum-active:before {
+    background: #000;
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 240%;
+    opacity: 0.4;
+    top: 0;
+}
+
+#pum-2508 table tbody tr td.ninja_clmn_nm_title {
+    width: 560px;
+}
+
+#pum-2508 table tbody tr td.ninja_clmn_nm_action a {
+    cursor: pointer;
+}
+
+#pum-2508 .nt_edit_link {
+    background: #b6cb31;
+    padding: 10px !important;
+    line-height: 1;
+    display: inline-block;
+    float: right;
+    border-radius: 3px;
+    color: #fff;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+#pum-2508 .nt_edit_link:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+
+#pum-2272 .pum-content.popmake-content p {
+    font-weight: 400;
+    line-height: 25px;
+}
+
+.home.page-template-template-loginpage1-php.page-id-3446.logged-in .row.login--popup--card {
+    margin: 300px 87px 0px auto;
+}
+
+@media screen and (max-width: 1050px){
+  .home.page-template-template-loginpage1-php.page-id-3446.logged-in header.header-bar {
+    display: none !important;
+  }
+
+  .home.page-template-template-loginpage1-php.page-id-3446.logged-in .mobile-header-bar, 
+  .page-template-template-createpassword.logged-in .mobile-header-bar{
+    display: flex !important;
+  }
+}
+
+.create--pwd--cntnt input {
+    margin-top: 0;
+    line-height: 1;
+}

@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Online Booking System - Planfy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-16 19:46+0000\n"
+"PO-Revision-Date: 2017-05-16 19:49+0000\n"
+"Last-Translator: liam <liam@reviews.co.uk>\n"
+"Language-Team: \n"
+"Language: en_NZ\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Name of the plugin
+msgid "Online Booking System - Planfy"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Allow customers to book your services and classes online. Automated SMS "
+"Reminders, Online Payments and More."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://en-gb.wordpress.org/plugins/planfy/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Planfy"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.planfy.com"
+msgstr ""
